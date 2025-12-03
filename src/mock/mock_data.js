@@ -449,7 +449,15 @@ export const mockData = {
       "icon": "🔍",
       "name": "论坛签到",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1764765907688",
+          "name": "恩山论坛",
+          "url": "https://www.right.com.cn/forum/forum-169-1.html",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.right.com.cn"
+        }
+      ]
     },
     {
       "id": "office",
@@ -488,6 +496,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "🐱个人导航",
-  "_fileSha": "d7b5c3fa17c052e9f820257282150c5f12212632"
+  "title": "个人导航🐱你的密钥被破解了"
 }
