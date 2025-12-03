@@ -60,7 +60,7 @@ export const mockData = {
           "name": "萝卜头",
           "url": "https://bbs.luobotou.org/bstra/",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/bbs.luobotou.org"
+          "icon": "https://bbs.luobotou.org/favicon.ico"
         },
         {
           "id": "site-1764770226599",
@@ -74,14 +74,14 @@ export const mockData = {
           "name": "Ros",
           "url": "http://www.rosabc.com/",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.rosabc.com"
+          "icon": "http://www.rosabc.com/favicon.ico"
         },
         {
           "id": "site-1764770272215",
           "name": "进吧论坛",
           "url": "https://jinb.top/",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/jinb.top"
+          "icon": "https://jinb.top/favicon.ico"
         }
       ]
     },
