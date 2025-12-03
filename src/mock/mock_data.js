@@ -4,7 +4,7 @@ export const mockData = {
       "id": "my-favorites",
       "name": "我的常用",
       "icon": "💥",
-      "order": 0,
+      "order": 10,
       "sites": [
         {
           "id": "site-1752649007053",
@@ -479,8 +479,14 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1764765451735",
+      "icon": "🔍",
+      "name": "论坛签到",
+      "order": 0,
+      "sites": []
     }
   ],
-  "title": "🐱个人导航",
-  "_fileSha": "a205ae503c8966f492d79f376806ac227574f531"
+  "title": "个人导航🐱你的密钥被破解了"
 }
