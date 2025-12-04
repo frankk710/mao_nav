@@ -415,7 +415,36 @@ export const mockData = {
       "icon": "🌐",
       "name": "网络检测",
       "order": 4,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1764838454643",
+          "name": "ip.sb",
+          "url": "https://ip.sb/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ip.sb"
+        },
+        {
+          "id": "site-1764838491807",
+          "name": "ping0.cc",
+          "url": "https://ping0.cc/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ping0.cc"
+        },
+        {
+          "id": "site-1764838651105",
+          "name": "iping-ip检测",
+          "url": "https://www.iping.cc/",
+          "description": "",
+          "icon": "https://favicon.im/www.iping.cc?larger=true"
+        },
+        {
+          "id": "site-1764838705359",
+          "name": "iplark.com",
+          "url": "https://iplark.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/iplark.com"
+        }
+      ]
     },
     {
       "id": "cloud",
