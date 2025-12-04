@@ -92,27 +92,6 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
-          "id": "site-1752649007053",
-          "name": "BeJson",
-          "url": "https://www.bejson.com/",
-          "description": "工具大全",
-          "icon": "/sitelogo/www.bejson.com.ico"
-        },
-        {
-          "id": "linux-do",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux技术社区，Peace and Love",
-          "icon": "/sitelogo/linux.do.ico"
-        },
-        {
-          "id": "site-1752857783656",
-          "name": "OpenAI",
-          "url": "https://chatgpt.com",
-          "description": "OpenAI,好用👌",
-          "icon": "/sitelogo/chatgpt.com.ico"
-        },
-        {
           "id": "github",
           "name": "GitHub",
           "url": "https://github.com",
@@ -120,11 +99,32 @@ export const mockData = {
           "icon": "/sitelogo/github.com.ico"
         },
         {
-          "id": "curlconverter",
-          "name": "curl converter",
-          "url": "https://curlconverter.com/",
-          "description": "curl命令转换工具",
-          "icon": "/sitelogo/curlconverter.com.ico"
+          "id": "site-1764815097754",
+          "name": "CF",
+          "url": "https://dash.cloudflare.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/dash.cloudflare.com"
+        },
+        {
+          "id": "site-1764815160536",
+          "name": "帮我吧",
+          "url": "https://www.bangwo8.com/osp2016/agent/bw8Frame.php?argv=https://www.bangwo8.com/osp2016/agent/index.php",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.bangwo8.com"
+        },
+        {
+          "id": "site-1764815187394",
+          "name": "QQ邮箱",
+          "url": "https://mail.qq.com/?cancel_login=true&from=session_timeout",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/mail.qq.com"
+        },
+        {
+          "id": "site-1764815210080",
+          "name": "谷歌邮箱",
+          "url": "https://mail.google.com/mail/u/0/?pli=1#inbox",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/mail.google.com"
         }
       ]
     },
@@ -566,7 +566,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "收藏夹",
-  "_fileSha": "c5aff3689ce78417d1c670e37c1d85d135fceec3",
-  "search": "google"
+  "title": "个人导航🐱你的密钥被破解了"
 }
