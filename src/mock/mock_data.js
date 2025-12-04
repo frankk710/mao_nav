@@ -344,6 +344,48 @@ export const mockData = {
           "url": "https://lmarena.ai/?mode=direct",
           "description": "",
           "icon": "https://favicon.im/lmarena.ai"
+        },
+        {
+          "id": "site-1764836891118",
+          "name": "Grok-马斯克",
+          "url": "https://grok.com/",
+          "description": "",
+          "icon": "https://favicon.im/grok.com?larger=true"
+        },
+        {
+          "id": "site-1764837063438",
+          "name": "Sora-Openai",
+          "url": "https://sora.chatgpt.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/sora.chatgpt.com"
+        },
+        {
+          "id": "site-1764837118060",
+          "name": "Flow-谷歌",
+          "url": "https://labs.google/flow/about",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/labs.google"
+        },
+        {
+          "id": "site-1764837167983",
+          "name": "AI-PPT",
+          "url": "https://www.aippt.com/",
+          "description": "",
+          "icon": "https://favicon.im/www.aippt.com?larger=true"
+        },
+        {
+          "id": "site-1764837200934",
+          "name": "Felo--Aippt",
+          "url": "https://felo.ai/search?utm_source=ai-bot.cn",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/felo.ai"
+        },
+        {
+          "id": "site-1764837224337",
+          "name": "presenton-PPT",
+          "url": "https://presenton.ai/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/presenton.ai"
         }
       ]
     },
