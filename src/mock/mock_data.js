@@ -411,6 +411,13 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1764838192671",
+      "icon": "🌐",
+      "name": "网络检测",
+      "order": 4,
+      "sites": []
+    },
+    {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
@@ -471,7 +478,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "github",
@@ -521,7 +528,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "stackoverflow",
@@ -564,7 +571,7 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "figma",
@@ -600,7 +607,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "binance",
@@ -664,7 +671,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 9,
+      "order": 10,
       "sites": [
         {
           "id": "mdn",
@@ -700,7 +707,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 10,
+      "order": 11,
       "sites": [
         {
           "id": "json-formatter",
@@ -736,7 +743,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 11,
+      "order": 12,
       "sites": [
         {
           "id": "bilibili",
@@ -772,7 +779,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 12,
+      "order": 13,
       "sites": [
         {
           "id": "notion",
@@ -803,13 +810,6 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
-    },
-    {
-      "id": "category-1764838192671",
-      "icon": "🌐",
-      "name": "网络检测",
-      "order": 4,
-      "sites": []
     }
   ],
   "title": "个人导航🐱你的密钥被破解了"
