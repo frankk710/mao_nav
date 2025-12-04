@@ -125,6 +125,34 @@ export const mockData = {
           "url": "https://mail.google.com/mail/u/0/?pli=1#inbox",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/mail.google.com"
+        },
+        {
+          "id": "site-1764835831850",
+          "name": "谷歌地图",
+          "url": "https://www.google.com/maps/?hl=zh-cn",
+          "description": "",
+          "icon": "https://favicon.im/www.google.com?larger=true"
+        },
+        {
+          "id": "site-1764835891166",
+          "name": "FOFA",
+          "url": "https://fofa.info/",
+          "description": "",
+          "icon": "https://favicon.im/fofa.info?larger=true"
+        },
+        {
+          "id": "site-1764835924112",
+          "name": "临时邮箱",
+          "url": "https://tempmail.plus/zh/#!",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/tempmail.plus"
+        },
+        {
+          "id": "site-1764835999262",
+          "name": "大数据实践教程",
+          "url": "https://bigdata.icu/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/bigdata.icu"
         }
       ]
     },
@@ -224,6 +252,13 @@ export const mockData = {
           "url": "https://www.freedidi.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.freedidi.com"
+        },
+        {
+          "id": "site-1764836065531",
+          "name": "joey博客",
+          "url": "https://joeyblog.net/",
+          "description": "",
+          "icon": "https://favicon.im/joeyblog.net?larger=true"
         }
       ]
     },
