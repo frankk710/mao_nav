@@ -414,7 +414,7 @@ export const mockData = {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "cloudflare",
@@ -803,6 +803,13 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1764838192671",
+      "icon": "🌐",
+      "name": "网络检测",
+      "order": 4,
+      "sites": []
     }
   ],
   "title": "个人导航🐱你的密钥被破解了"
