@@ -133,7 +133,43 @@ export const mockData = {
       "icon": "📑",
       "name": "大佬博客",
       "order": 2,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1764829943190",
+          "name": "七尺宇",
+          "url": "https://www.qichiyu.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.qichiyu.com"
+        },
+        {
+          "id": "site-1764830142628",
+          "name": "CM喂饭干货满满",
+          "url": "https://vercel.blog.cmliussss.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/vercel.blog.cmliussss.com"
+        },
+        {
+          "id": "site-1764830166272",
+          "name": "AM科技",
+          "url": "https://amclubss.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/amclubss.com"
+        },
+        {
+          "id": "site-1764830187812",
+          "name": "代码飓风",
+          "url": "https://www.dmjf.top/page/2",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.dmjf.top"
+        },
+        {
+          "id": "site-1764830310620",
+          "name": "猪猫博客",
+          "url": "https://fly-uni.com/",
+          "description": "",
+          "icon": "https://fly-uni.com/favicon.ico"
+        }
+      ]
     },
     {
       "id": "ai-tools",
@@ -573,5 +609,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "个人收藏夹"
+  "title": "个人导航🐱你的密钥被破解了"
 }
