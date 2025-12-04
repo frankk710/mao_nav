@@ -139,7 +139,7 @@ export const mockData = {
           "name": "七尺宇",
           "url": "https://www.qichiyu.com/",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.qichiyu.com"
+          "icon": "https://favicon.im/www.qichiyu.com"
         },
         {
           "id": "site-1764830142628",
@@ -160,7 +160,7 @@ export const mockData = {
           "name": "代码飓风",
           "url": "https://www.dmjf.top/page/2",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.dmjf.top"
+          "icon": "https://favicon.im/www.dmjf.top?larger=true"
         },
         {
           "id": "site-1764830310620",
@@ -168,6 +168,62 @@ export const mockData = {
           "url": "https://fly-uni.com/",
           "description": "",
           "icon": "https://fly-uni.com/favicon.ico"
+        },
+        {
+          "id": "site-1764830809695",
+          "name": "勇哥KKK",
+          "url": "https://ygkkk.blogspot.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ygkkk.blogspot.com"
+        },
+        {
+          "id": "site-1764830906767",
+          "name": "奶油博客",
+          "url": "https://naiyous.com/",
+          "description": "",
+          "icon": "https://favicon.im/naiyous.com?larger=true"
+        },
+        {
+          "id": "site-1764830941823",
+          "name": "千狐博客",
+          "url": "https://blog.qianhuya.me/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/blog.qianhuya.me"
+        },
+        {
+          "id": "site-1764830997321",
+          "name": "Tweek资源分享",
+          "url": "https://tweek.top/",
+          "description": "",
+          "icon": "https://favicon.im/tweek.top?larger=true"
+        },
+        {
+          "id": "site-1764831038515",
+          "name": "程序员哈利",
+          "url": "https://hali.life/",
+          "description": "",
+          "icon": "https://favicon.im/hali.life?larger=true"
+        },
+        {
+          "id": "site-1764831069071",
+          "name": "秋名山博客",
+          "url": "https://blog.qmsdh.com/index.php/page/5/",
+          "description": "",
+          "icon": "https://favicon.im/blog.qmsdh.com?larger=true"
+        },
+        {
+          "id": "site-1764831139805",
+          "name": "科技佬王",
+          "url": "https://nav.eooce.com/",
+          "description": "",
+          "icon": "https://favicon.im/nav.eooce.com?larger=true"
+        },
+        {
+          "id": "site-1764831165267",
+          "name": "零度博客",
+          "url": "https://www.freedidi.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.freedidi.com"
         }
       ]
     },
