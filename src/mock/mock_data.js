@@ -443,6 +443,48 @@ export const mockData = {
           "url": "https://iplark.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/iplark.com"
+        },
+        {
+          "id": "site-1764838879940",
+          "name": "speedtest",
+          "url": "https://www.speedtest.net/zh-Hans",
+          "description": "",
+          "icon": "https://favicon.im/www.speedtest.net"
+        },
+        {
+          "id": "site-1764838966072",
+          "name": "谷歌测速",
+          "url": "https://fiber.google.com/speedtest/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/fiber.google.com"
+        },
+        {
+          "id": "site-1764839020652",
+          "name": "Openspeedtest",
+          "url": "https://openspeedtest.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/openspeedtest.com"
+        },
+        {
+          "id": "site-1764839082670",
+          "name": "中国科技大学测速",
+          "url": "https://test.ustc.edu.cn/",
+          "description": "",
+          "icon": "https://favicon.im/test.ustc.edu.cn?larger=true"
+        },
+        {
+          "id": "site-1764839165063",
+          "name": "Fast.com",
+          "url": "https://fast.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/fast.com"
+        },
+        {
+          "id": "site-1764839207760",
+          "name": "Speed.cloudflare",
+          "url": "https://speed.cloudflare.com/",
+          "description": "",
+          "icon": "https://favicon.im/speed.cloudflare.com?larger=true"
         }
       ]
     },
