@@ -153,6 +153,27 @@ export const mockData = {
           "url": "https://bigdata.icu/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/bigdata.icu"
+        },
+        {
+          "id": "site-1764837552183",
+          "name": "CF自建Cloudnav导航",
+          "url": "https://cloudnav.ama.netlib.re/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/cloudnav.ama.netlib.re"
+        },
+        {
+          "id": "site-1764837600296",
+          "name": "CF自建导航",
+          "url": "https://dhy.ama.netlib.re/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/dhy.ama.netlib.re"
+        },
+        {
+          "id": "site-1764837631471",
+          "name": "CF自建猫猫导航",
+          "url": "https://mao.ama.netlib.re/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/mao.ama.netlib.re"
         }
       ]
     },
