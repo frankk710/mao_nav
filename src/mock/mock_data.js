@@ -302,6 +302,48 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        },
+        {
+          "id": "site-1764836340414",
+          "name": "Perplexity",
+          "url": "https://www.perplexity.ai/?login-source=oneTapHome",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.perplexity.ai"
+        },
+        {
+          "id": "site-1764836414959",
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/chats/6JPJPos67H5h6r1fJYHMm",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/copilot.microsoft.com"
+        },
+        {
+          "id": "site-1764836511863",
+          "name": "Gemini",
+          "url": "https://gemini.google.com/app/736da9b9a4823fbd?hl=zh-cn",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/gemini.google.com"
+        },
+        {
+          "id": "site-1764836549699",
+          "name": "MetaAI",
+          "url": "https://www.meta.ai/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.meta.ai"
+        },
+        {
+          "id": "site-1764836576306",
+          "name": "Deepseek",
+          "url": "https://www.deepseek.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.deepseek.com"
+        },
+        {
+          "id": "site-1764836617350",
+          "name": "lmarena",
+          "url": "https://lmarena.ai/?mode=direct",
+          "description": "",
+          "icon": "https://favicon.im/lmarena.ai"
         }
       ]
     },
