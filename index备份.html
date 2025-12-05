@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="zh">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="public/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mao Nav</title>
+
+    <style>
+      body, html {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+      }
+
+      #login-box {
+        position: fixed;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #f0f0f0;
+        z-index: 9999;
+      }
+
+      .login-panel {
+        background: white;
+        padding: 30px;
+        border-radius: 12px;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+        width: 260px;
+        text-align: center;
+        font-family: Arial;
+      }
+
+      .login-panel input {
+        width: 100%;
+        padding: 10px;
+        margin-top: 12px;
+        border-radius: 8px;
+        border: 1px solid #ccc;
+        outline: none;
+      }
+
+      .login-panel button {
+        width: 100%;
+        padding: 10px;
+        margin-top: 18px;
+        border-radius: 8px;
+        background: #409eff;
+        color: white;
+        border: none;
+        cursor: pointer;
+      }
+
+      .login-error {
+        margin-top: 10px;
+        color: red;
+        font-size: 14px;
+        display: none;
+      }
+    </style>
+  </head>
+
+  <body>
+
+    <!-- 登录界面 -->
+    <div id="login-box">
+      <div class="login-panel">
+        <h3>请输入访问密码</h3>
+        <input type="password" id="pwdInput" placeholder="密码" />
+        <button id="loginBtn">登录</button>
+        <div class="login-error" id="errMsg">密码错误！</div>
+      </div>
+    </div>
+
+    <!-- Vue App -->
+    <div id="app"></div>
+
+    <!-- 你的 Vite/Vue app 入口 -->
+    <script type="module" src="/src/main.js"></script>
+
+    <script>
+      const CORRECT_PASSWORD = "123456";  // 你自己的密码
+
+      const loginBtn = document.getElementById("loginBtn");
+      const pwdInput = document.getElementById("pwdInput");
+      const errMsg = document.getElementById("errMsg");
+      const loginBox = document.getElementById("login-box");
+
+      loginBtn.onclick = function () {
+        if (pwdInput.value === CORRECT_PASSWORD) {
+          loginBox.style.display = "none";   // 🔥 登录成功 → 移除遮罩
+        } else {
+          errMsg.style.display = "block";    // 显示错误提示
+        }
+      };
+    </script>
+
+  </body>
+</html>
