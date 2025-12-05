@@ -13,16 +13,6 @@
         height: 100%;
       }
 
-      #login-box {
-        position: fixed;
-        inset: 0;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        background: #f0f0f0;
-        z-index: 9999;
-      }
-
       .login-panel {
         background: white;
         padding: 30px;
@@ -59,20 +49,21 @@
         font-size: 14px;
         display: none;
       }
+
+      /* 登录遮罩样式 */
+      .login-overlay {
+        position: fixed;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #f0f0f0;
+        z-index: 9999;
+      }
     </style>
   </head>
 
   <body>
-
-    <!-- 登录界面（仅前台使用） -->
-    <div id="login-box">
-      <div class="login-panel">
-        <h3>请输入访问密码</h3>
-        <input type="password" id="pwdInput" placeholder="密码" />
-        <button id="loginBtn">登录</button>
-        <div class="login-error" id="errMsg">密码错误！</div>
-      </div>
-    </div>
 
     <!-- Vue App -->
     <div id="app"></div>
@@ -81,29 +72,39 @@
     <script type="module" src="/src/main.js"></script>
 
     <script>
-      // 🔥 只在不是 /admin 的页面才显示密码登录
+      // 🔥 只在前台页面插入密码登录
       if (!location.pathname.startsWith('/admin')) {
 
-        const CORRECT_PASSWORD = "789654123";  // 你设置的密码
+        const CORRECT_PASSWORD = "789654123";  // 前台首页密码
+
+        // 创建遮罩 DOM
+        const loginBox = document.createElement("div");
+        loginBox.id = "login-box";
+        loginBox.className = "login-overlay";
+        loginBox.innerHTML = `
+          <div class="login-panel">
+            <h3>请输入访问密码</h3>
+            <input type="password" id="pwdInput" placeholder="密码" />
+            <button id="loginBtn">登录</button>
+            <div class="login-error" id="errMsg">密码错误！</div>
+          </div>
+        `;
+        document.body.appendChild(loginBox);
 
         const loginBtn = document.getElementById("loginBtn");
         const pwdInput = document.getElementById("pwdInput");
         const errMsg = document.getElementById("errMsg");
-        const loginBox = document.getElementById("login-box");
 
         loginBtn.onclick = function () {
           if (pwdInput.value === CORRECT_PASSWORD) {
-            loginBox.style.display = "none";   // 登录成功：隐藏遮罩
+            loginBox.remove();   // 成功：移除遮罩
           } else {
-            errMsg.style.display = "block";    // 密码错误提示
+            errMsg.style.display = "block"; // 错误提示
           }
         };
 
-      } else {
-        // 🔥 如果是 /admin 页面 → 隐藏整个登录框
-        const box = document.getElementById("login-box");
-        if (box) box.style.display = "none";
       }
+      // 🔹 后台 /admin 页面完全不生成 #login-box，后台登录逻辑不受影响
     </script>
 
   </body>
