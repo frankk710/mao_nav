@@ -708,7 +708,7 @@ export const mockData = {
           "id": "site-1764909290907",
           "name": "Allavsoft",
           "url": "https://www.allavsoft.com/",
-          "description": "零度推荐-视频音乐下载工具\n\nhttps://www.freedidi.com/20623.html",
+          "description": "零度推荐-视频音乐下载",
           "icon": "https://favicon.im/www.allavsoft.com?larger=true"
         },
         {
@@ -736,7 +736,7 @@ export const mockData = {
           "id": "site-1764909508756",
           "name": "运维杂谈",
           "url": "http://8.130.29.146:6688/",
-          "description": "网络测试工具箱V6.0\nAi配置网络设备V3.0",
+          "description": "网络测试、Ai配置交换机",
           "icon": "https://www.faviconextractor.com/favicon/8.130.29.146:6688"
         }
       ]
