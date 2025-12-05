@@ -632,6 +632,13 @@ export const mockData = {
           "url": "https://www.itdog.cn/",
           "description": "",
           "icon": "https://favicon.im/www.itdog.cn?larger=true"
+        },
+        {
+          "id": "site-1764932650415",
+          "name": "ip检测",
+          "url": "https://ippure.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ippure.com"
         }
       ]
     },
