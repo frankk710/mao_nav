@@ -87,7 +87,7 @@ export const mockData = {
     },
     {
       "id": "my-favorites",
-      "name": "我的常用",
+      "name": "常用导航",
       "icon": "💥",
       "order": 1,
       "sites": [
