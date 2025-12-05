@@ -64,7 +64,7 @@
 
   <body>
 
-    <!-- 登录界面 -->
+    <!-- 登录界面（仅前台使用） -->
     <div id="login-box">
       <div class="login-panel">
         <h3>请输入访问密码</h3>
@@ -81,21 +81,29 @@
     <script type="module" src="/src/main.js"></script>
 
     <script>
-    if (!location.pathname.startsWith('/admin')) {
-      const CORRECT_PASSWORD = "789654123";  // 你自己的密码
+      // 🔥 只在不是 /admin 的页面才显示密码登录
+      if (!location.pathname.startsWith('/admin')) {
 
-      const loginBtn = document.getElementById("loginBtn");
-      const pwdInput = document.getElementById("pwdInput");
-      const errMsg = document.getElementById("errMsg");
-      const loginBox = document.getElementById("login-box");
+        const CORRECT_PASSWORD = "789654123";  // 你设置的密码
 
-      loginBtn.onclick = function () {
-        if (pwdInput.value === CORRECT_PASSWORD) {
-          loginBox.style.display = "none";   // 🔥 登录成功 → 移除遮罩
-        } else {
-          errMsg.style.display = "block";    // 显示错误提示
-        }
-      };
+        const loginBtn = document.getElementById("loginBtn");
+        const pwdInput = document.getElementById("pwdInput");
+        const errMsg = document.getElementById("errMsg");
+        const loginBox = document.getElementById("login-box");
+
+        loginBtn.onclick = function () {
+          if (pwdInput.value === CORRECT_PASSWORD) {
+            loginBox.style.display = "none";   // 登录成功：隐藏遮罩
+          } else {
+            errMsg.style.display = "block";    // 密码错误提示
+          }
+        };
+
+      } else {
+        // 🔥 如果是 /admin 页面 → 隐藏整个登录框
+        const box = document.getElementById("login-box");
+        if (box) box.style.display = "none";
+      }
     </script>
 
   </body>
