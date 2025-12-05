@@ -280,6 +280,13 @@ export const mockData = {
           "url": "https://joeyblog.net/",
           "description": "",
           "icon": "https://favicon.im/joeyblog.net?larger=true"
+        },
+        {
+          "id": "site-1764939431301",
+          "name": "安格视界",
+          "url": "https://blog.angeworld.cc/market/",
+          "description": "",
+          "icon": "https://favicon.im/blog.angeworld.cc?larger=true"
         }
       ]
     },
@@ -738,6 +745,13 @@ export const mockData = {
           "url": "http://8.130.29.146:6688/",
           "description": "网络测试、Ai配置交换机",
           "icon": "https://www.faviconextractor.com/favicon/8.130.29.146:6688"
+        },
+        {
+          "id": "site-1764939515363",
+          "name": "Vanced",
+          "url": "https://vanced.to/revanced-youtube-extended",
+          "description": "油管手机端去广告版",
+          "icon": "https://favicon.im/vanced.to?larger=true"
         }
       ]
     },
@@ -774,6 +788,41 @@ export const mockData = {
           "url": "https://www.douyin.com/",
           "description": "",
           "icon": "https://favicon.im/www.douyin.com?larger=true"
+        },
+        {
+          "id": "site-1764939223370",
+          "name": "Tiktok",
+          "url": "https://www.tiktok.com/en",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.tiktok.com"
+        },
+        {
+          "id": "site-1764939368187",
+          "name": "安格视界",
+          "url": "https://www.youtube.com/@Ange-Digital-Life/videos",
+          "description": "Openclash教程",
+          "icon": "https://favicon.im/blog.angeworld.cc?larger=true"
+        },
+        {
+          "id": "site-1764939589795",
+          "name": "Pandalive",
+          "url": "https://www.pandalive.co.kr/",
+          "description": "熊猫电视KR",
+          "icon": "https://favicon.im/www.pandalive.co.kr?larger=true"
+        },
+        {
+          "id": "site-1764939637996",
+          "name": "Twitch",
+          "url": "https://www.twitch.tv/?no-reload=true",
+          "description": "Twitch直播平台",
+          "icon": "https://www.faviconextractor.com/favicon/www.twitch.tv"
+        },
+        {
+          "id": "site-1764939701141",
+          "name": "trovo.live",
+          "url": "https://trovo.live/",
+          "description": "网络直播平台",
+          "icon": "https://favicon.im/trovo.live?larger=true"
         }
       ]
     },
