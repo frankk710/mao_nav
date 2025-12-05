@@ -640,7 +640,99 @@ export const mockData = {
       "icon": "💼",
       "name": "常用工具",
       "order": 5,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1764908533522",
+          "name": "PixPin截图",
+          "url": "https://pixpin.cn/",
+          "description": "",
+          "icon": "https://favicon.im/pixpin.cn?larger=true"
+        },
+        {
+          "id": "site-1764908574866",
+          "name": "沉浸式翻译",
+          "url": "https://immersivetranslate.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/immersivetranslate.com"
+        },
+        {
+          "id": "site-1764908623020",
+          "name": "小旺ai截图",
+          "url": "https://www.xiaowang.com/",
+          "description": "",
+          "icon": "https://favicon.im/www.xiaowang.com?larger=true"
+        },
+        {
+          "id": "site-1764908659258",
+          "name": "一套键鼠控制4台电脑",
+          "url": "https://www.microsoft.com/en-US/download/details.aspx?id=35460",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.microsoft.com"
+        },
+        {
+          "id": "site-1764908699427",
+          "name": "QuickLook-空格查看",
+          "url": "https://github.com/QL-Win/QuickLook",
+          "description": "",
+          "icon": "https://store-images.s-microsoft.com/image/apps.3920.14405803611253731.a92873b0-37c2-4797-8970-49361565e95d.afe803be-45c5-4971-95f6-c6b98f4ce927?h=115"
+        },
+        {
+          "id": "site-1764908966683",
+          "name": "Lucky反向代理",
+          "url": "https://lucky666.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/lucky666.cn"
+        },
+        {
+          "id": "site-1764908988467",
+          "name": "Notion笔记",
+          "url": "https://www.notion.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.notion.com"
+        },
+        {
+          "id": "site-1764909061620",
+          "name": "Geek",
+          "url": "https://geekuninstaller.com/",
+          "description": "程序卸载工具",
+          "icon": "https://favicon.im/geekuninstaller.com?larger=true"
+        },
+        {
+          "id": "site-1764909290907",
+          "name": "Allavsoft",
+          "url": "https://www.allavsoft.com/",
+          "description": "零度推荐-视频音乐下载工具\nhttps://www.freedidi.com/20623.html",
+          "icon": "https://favicon.im/www.allavsoft.com?larger=true"
+        },
+        {
+          "id": "site-1764909351531",
+          "name": "刘明野的工具箱",
+          "url": "https://tools.liumingye.cn/",
+          "description": "音乐和其他工具下载",
+          "icon": "https://favicon.im/tools.liumingye.cn?larger=true"
+        },
+        {
+          "id": "site-1764909386532",
+          "name": "MarkDown在线编辑",
+          "url": "https://dillinger.io/",
+          "description": "MarkDown在线编辑",
+          "icon": "https://www.faviconextractor.com/favicon/dillinger.io"
+        },
+        {
+          "id": "site-1764909419843",
+          "name": "自建听音乐",
+          "url": "https://yinyue.888710.xyz/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/yinyue.888710.xyz"
+        },
+        {
+          "id": "site-1764909508756",
+          "name": "运维杂谈",
+          "url": "http://8.130.29.146:6688/",
+          "description": "网络测试工具箱V6.0，Ai大模型配置网络设备V3.0最新",
+          "icon": "https://www.faviconextractor.com/favicon/8.130.29.146:6688"
+        }
+      ]
     },
     {
       "id": "cloud",
