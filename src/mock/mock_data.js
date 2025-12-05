@@ -701,7 +701,7 @@ export const mockData = {
           "id": "site-1764909290907",
           "name": "Allavsoft",
           "url": "https://www.allavsoft.com/",
-          "description": "零度推荐-视频音乐下载工具\nhttps://www.freedidi.com/20623.html",
+          "description": "零度推荐-视频音乐下载工具\n\nhttps://www.freedidi.com/20623.html",
           "icon": "https://favicon.im/www.allavsoft.com?larger=true"
         },
         {
@@ -729,7 +729,7 @@ export const mockData = {
           "id": "site-1764909508756",
           "name": "运维杂谈",
           "url": "http://8.130.29.146:6688/",
-          "description": "网络测试工具箱V6.0，Ai大模型配置网络设备V3.0最新",
+          "description": "网络测试工具箱V6.0\nAi配置网络设备V3.0",
           "icon": "https://www.faviconextractor.com/favicon/8.130.29.146:6688"
         }
       ]
@@ -1129,7 +1129,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "收藏夹",
-  "_fileSha": "a6bda6caf78e5facab0fab63c32a148292aca4a5",
-  "search": "google"
+  "title": "个人导航🐱你的密钥被破解了"
 }
