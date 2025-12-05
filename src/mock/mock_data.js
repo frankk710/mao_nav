@@ -827,10 +827,74 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1764939760612",
+      "icon": "🔍",
+      "name": "泄露检测",
+      "order": 7,
+      "sites": [
+        {
+          "id": "site-1764939820883",
+          "name": "Browserleaks",
+          "url": "https://browserleaks.com/dns",
+          "description": "dns泄露检测",
+          "icon": "https://favicon.im/browserleaks.com?larger=true"
+        },
+        {
+          "id": "site-1764939887948",
+          "name": "Browserscan",
+          "url": "https://www.browserscan.net/zh/dns-leak",
+          "description": "dns泄露检测",
+          "icon": "https://www.faviconextractor.com/favicon/www.browserscan.net"
+        },
+        {
+          "id": "site-1764939926483",
+          "name": "Surfshark",
+          "url": "https://surfshark.com/zh/dns-leak-test",
+          "description": "dns泄露检测",
+          "icon": "https://www.faviconextractor.com/favicon/surfshark.com"
+        },
+        {
+          "id": "site-1764939975835",
+          "name": "Astrill",
+          "url": "https://www.astrill.com/zh/dns-leak-test",
+          "description": "dns泄露检测",
+          "icon": "https://www.faviconextractor.com/favicon/www.astrill.com"
+        },
+        {
+          "id": "site-1764940030003",
+          "name": "Dnsleaktest",
+          "url": "https://dnsleaktest.com/",
+          "description": "dns泄露检测",
+          "icon": "https://favicon.im/dnsleaktest.com?larger=true"
+        },
+        {
+          "id": "site-1764940131636",
+          "name": "Dnscheck",
+          "url": "https://www.dnscheck.tools/",
+          "description": "dns泄露检测",
+          "icon": "https://favicon.im/www.dnscheck.tools?larger=true"
+        },
+        {
+          "id": "site-1764940200956",
+          "name": "域名污染检测",
+          "url": "https://tool.chinaz.com/dnsce/",
+          "description": "站长之家域名污染检测",
+          "icon": "https://www.faviconextractor.com/favicon/tool.chinaz.com"
+        },
+        {
+          "id": "site-1764940268468",
+          "name": "IPleak",
+          "url": "https://ipleak.net/",
+          "description": "dns泄露检测",
+          "icon": "https://favicon.im/ipleak.net?larger=true"
+        }
+      ]
+    },
+    {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "cloudflare",
@@ -887,7 +951,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "github",
@@ -937,7 +1001,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 9,
+      "order": 10,
       "sites": [
         {
           "id": "stackoverflow",
@@ -980,7 +1044,7 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 10,
+      "order": 11,
       "sites": [
         {
           "id": "figma",
@@ -1016,7 +1080,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 11,
+      "order": 12,
       "sites": [
         {
           "id": "binance",
@@ -1080,7 +1144,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 12,
+      "order": 13,
       "sites": [
         {
           "id": "mdn",
@@ -1116,7 +1180,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 13,
+      "order": 14,
       "sites": [
         {
           "id": "json-formatter",
@@ -1152,7 +1216,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 14,
+      "order": 15,
       "sites": [
         {
           "id": "bilibili",
@@ -1188,7 +1252,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 15,
+      "order": 16,
       "sites": [
         {
           "id": "notion",
