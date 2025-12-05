@@ -513,6 +513,125 @@ export const mockData = {
           "url": "https://ip125.com",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/ip125.com"
+        },
+        {
+          "id": "site-1764896009924",
+          "name": "本机 IP 查询",
+          "url": "https://ip.skk.moe/",
+          "description": "",
+          "icon": "https://favicon.im/ip.skk.moe?larger=true"
+        },
+        {
+          "id": "site-1764896071552",
+          "name": "ipinfo",
+          "url": "https://ipinfo.io/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ipinfo.io"
+        },
+        {
+          "id": "site-1764896092776",
+          "name": "ip欺诈检测",
+          "url": "https://scamalytics.com/ip",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/scamalytics.com"
+        },
+        {
+          "id": "site-1764896114136",
+          "name": "whoer-纯净度检测",
+          "url": "https://whoer.net/zh",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/whoer.net"
+        },
+        {
+          "id": "site-1764896162384",
+          "name": "ip-score-纯净度检测",
+          "url": "https://ip-score.com/",
+          "description": "",
+          "icon": "https://favicon.im/ip-score.com?larger=true"
+        },
+        {
+          "id": "site-1764896198000",
+          "name": "ip位置查询",
+          "url": "https://ip.chinaz.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ip.chinaz.com"
+        },
+        {
+          "id": "site-1764896234432",
+          "name": "ipip检测",
+          "url": "https://www.ipip.net/?origin=EN",
+          "description": "",
+          "icon": "https://favicon.im/www.ipip.net?larger=true"
+        },
+        {
+          "id": "site-1764896279120",
+          "name": "myipaddress-IP地址检测",
+          "url": "https://whatismyipaddress.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/whatismyipaddress.com"
+        },
+        {
+          "id": "site-1764896313984",
+          "name": "ip.me",
+          "url": "https://ip.me/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ip.me"
+        },
+        {
+          "id": "site-1764896359544",
+          "name": "ping.pe",
+          "url": "https://ping.pe/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ping.pe"
+        },
+        {
+          "id": "site-1764896408361",
+          "name": "ipv6测试",
+          "url": "https://test-ipv6.com/",
+          "description": "",
+          "icon": "https://favicon.im/test-ipv6.com"
+        },
+        {
+          "id": "site-1764896452321",
+          "name": "ipv6地址检测",
+          "url": "https://ipw.cn/",
+          "description": "",
+          "icon": "https://favicon.im/ipw.cn?larger=true"
+        },
+        {
+          "id": "site-1764896494137",
+          "name": "端口开放检测",
+          "url": "https://www.yougetsignal.com/",
+          "description": "",
+          "icon": "https://favicon.im/www.yougetsignal.com?larger=true"
+        },
+        {
+          "id": "site-1764896517368",
+          "name": "nat类型检测",
+          "url": "https://www.checkmynat.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.checkmynat.com"
+        },
+        {
+          "id": "site-1764896558201",
+          "name": "nat类型检测",
+          "url": "https://natchecker.com/zh",
+          "description": "",
+          "icon": "https://favicon.im/natchecker.com?larger=true"
+        },
+        {
+          "id": "site-1764896585970",
+          "name": "站长之家",
+          "url": "https://ping.chinaz.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ping.chinaz.com"
+        },
+        {
+          "id": "site-1764896625169",
+          "name": "ITdog",
+          "url": "https://www.itdog.cn/",
+          "description": "",
+          "icon": "https://favicon.im/www.itdog.cn?larger=true"
         }
       ]
     },
