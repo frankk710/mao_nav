@@ -734,9 +734,9 @@ export const mockData = {
         },
         {
           "id": "site-1764909419843",
-          "name": "自建听音乐",
+          "name": "Solara",
           "url": "https://yinyue.888710.xyz/",
-          "description": "",
+          "description": "自建听音乐",
           "icon": "https://www.faviconextractor.com/favicon/yinyue.888710.xyz"
         },
         {
