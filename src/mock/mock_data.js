@@ -759,6 +759,13 @@ export const mockData = {
           "url": "https://open.spotify.com/",
           "description": "听音乐、下载音乐",
           "icon": "https://www.faviconextractor.com/favicon/open.spotify.com"
+        },
+        {
+          "id": "site-1765061795665",
+          "name": "网络运维工具箱",
+          "url": "https://vlanif.cn",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/vlanif.cn"
         }
       ]
     },
