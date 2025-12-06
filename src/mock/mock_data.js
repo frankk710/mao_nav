@@ -752,6 +752,13 @@ export const mockData = {
           "url": "https://vanced.to/revanced-youtube-extended",
           "description": "油管手机端去广告版",
           "icon": "https://favicon.im/vanced.to?larger=true"
+        },
+        {
+          "id": "site-1765011576331",
+          "name": "Spotify",
+          "url": "https://open.spotify.com/",
+          "description": "听音乐、下载音乐",
+          "icon": "https://www.faviconextractor.com/favicon/open.spotify.com"
         }
       ]
     },
