@@ -657,9 +657,9 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1764908533522",
-          "name": "PixPin截图",
+          "name": "PixPin",
           "url": "https://pixpin.cn/",
-          "description": "",
+          "description": "截图工具",
           "icon": "https://favicon.im/pixpin.cn?larger=true"
         },
         {
@@ -671,37 +671,37 @@ export const mockData = {
         },
         {
           "id": "site-1764908623020",
-          "name": "小旺ai截图",
+          "name": "小旺ai",
           "url": "https://www.xiaowang.com/",
-          "description": "",
+          "description": "截图工具",
           "icon": "https://favicon.im/www.xiaowang.com?larger=true"
         },
         {
           "id": "site-1764908659258",
           "name": "一套键鼠控制4台电脑",
           "url": "https://www.microsoft.com/en-US/download/details.aspx?id=35460",
-          "description": "",
+          "description": "一套键鼠控制4台电脑",
           "icon": "https://www.faviconextractor.com/favicon/www.microsoft.com"
         },
         {
           "id": "site-1764908699427",
-          "name": "QuickLook-空格查看",
+          "name": "QuickLook",
           "url": "https://github.com/QL-Win/QuickLook",
-          "description": "",
+          "description": "空格查看文档文件",
           "icon": "https://store-images.s-microsoft.com/image/apps.3920.14405803611253731.a92873b0-37c2-4797-8970-49361565e95d.afe803be-45c5-4971-95f6-c6b98f4ce927?h=115"
         },
         {
           "id": "site-1764908966683",
-          "name": "Lucky反向代理",
+          "name": "Lucky",
           "url": "https://lucky666.cn/",
-          "description": "",
+          "description": "反向代理工具",
           "icon": "https://www.faviconextractor.com/favicon/lucky666.cn"
         },
         {
           "id": "site-1764908988467",
-          "name": "Notion笔记",
+          "name": "Notion",
           "url": "https://www.notion.com/",
-          "description": "",
+          "description": "笔记工具",
           "icon": "https://www.faviconextractor.com/favicon/www.notion.com"
         },
         {
@@ -764,7 +764,7 @@ export const mockData = {
           "id": "site-1765061795665",
           "name": "网络运维工具箱",
           "url": "https://vlanif.cn",
-          "description": "",
+          "description": "配置交换机、网络扫描、端口扫描",
           "icon": "https://www.faviconextractor.com/favicon/vlanif.cn"
         },
         {
