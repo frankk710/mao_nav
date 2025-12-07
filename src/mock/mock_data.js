@@ -944,6 +944,76 @@ export const mockData = {
           "url": "https://www.yinfans.me/",
           "description": "",
           "icon": "/sitelogo/www.yinfans.me.ico"
+        },
+        {
+          "id": "site-1765076784739",
+          "name": "明月影院",
+          "url": "https://dy.tweek.top/",
+          "description": "",
+          "icon": "https://favicon.im/dy.tweek.top?larger=true"
+        },
+        {
+          "id": "site-1765076879043",
+          "name": "可可影视",
+          "url": "https://www.kkys02.com/",
+          "description": "",
+          "icon": "/sitelogo/www.kkys02.com.ico"
+        },
+        {
+          "id": "site-1765076894650",
+          "name": "奈非工厂",
+          "url": "https://www.netflixgc.com/",
+          "description": "",
+          "icon": "/sitelogo/www.netflixgc.com.ico"
+        },
+        {
+          "id": "site-1765076907922",
+          "name": "电影天堂",
+          "url": "https://www.dytt8899.com/",
+          "description": "",
+          "icon": "/sitelogo/www.dytt8899.com.ico"
+        },
+        {
+          "id": "site-1765076920714",
+          "name": "荐片",
+          "url": "https://www.jianpian14.com/#/home",
+          "description": "",
+          "icon": "/sitelogo/www.jianpian14.com.ico"
+        },
+        {
+          "id": "site-1765076938427",
+          "name": "CN影院",
+          "url": "https://cnys.tv/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/cnys.tv"
+        },
+        {
+          "id": "site-1765076966851",
+          "name": "奈菲",
+          "url": "https://www.netflix.com/",
+          "description": "",
+          "icon": "/sitelogo/www.netflix.com.ico"
+        },
+        {
+          "id": "site-1765076977754",
+          "name": "迪士尼",
+          "url": "https://www.disneyplus.com/",
+          "description": "",
+          "icon": "/sitelogo/www.disneyplus.com.ico"
+        },
+        {
+          "id": "site-1765076997892",
+          "name": "泰小圈",
+          "url": "https://txquu.com/",
+          "description": "泰剧",
+          "icon": "/sitelogo/txquu.com.ico"
+        },
+        {
+          "id": "site-1765077039099",
+          "name": "CMoonTV",
+          "url": "https://cmoontv.dedyn.io/",
+          "description": "",
+          "icon": "https://favicon.im/cmoontv.dedyn.io?larger=true"
         }
       ]
     },
