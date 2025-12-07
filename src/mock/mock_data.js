@@ -766,12 +766,26 @@ export const mockData = {
           "url": "https://vlanif.cn",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/vlanif.cn"
+        },
+        {
+          "id": "site-1765080891553",
+          "name": "钛盘",
+          "url": "https://www.tmp.link",
+          "description": "中转网盘",
+          "icon": "/sitelogo/www.tmp.link.ico"
+        },
+        {
+          "id": "site-1765080929985",
+          "name": "虫洞(wormhole)",
+          "url": "https://wormhole.app/",
+          "description": "中转网盘",
+          "icon": "/sitelogo/wormhole.app.ico"
         }
       ]
     },
     {
       "id": "category-1764938739201",
-      "icon": "📱",
+      "icon": "📺",
       "name": "视频网站",
       "order": 6,
       "sites": [
@@ -906,7 +920,7 @@ export const mockData = {
     },
     {
       "id": "category-1765074333984",
-      "icon": "💻",
+      "icon": "🎞️",
       "name": "影视资源",
       "order": 8,
       "sites": [
@@ -1018,10 +1032,39 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1765080471593",
+      "icon": "🖼️",
+      "name": "壁纸",
+      "order": 9,
+      "sites": [
+        {
+          "id": "site-1765080592409",
+          "name": "wallhaven",
+          "url": "https://wallhaven.cc/toplist?page=4",
+          "description": "桌面壁纸",
+          "icon": "/sitelogo/wallhaven.cc.ico"
+        },
+        {
+          "id": "site-1765080635721",
+          "name": "Hdqwalls",
+          "url": "https://hdqwalls.com/",
+          "description": "桌面壁纸",
+          "icon": "https://favicon.im/hdqwalls.com?larger=true"
+        },
+        {
+          "id": "site-1765080696385",
+          "name": "哲风壁纸",
+          "url": "https://haowallpaper.com/homeView",
+          "description": "",
+          "icon": "https://favicon.im/haowallpaper.com?larger=true"
+        }
+      ]
+    },
+    {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 9,
+      "order": 10,
       "sites": [
         {
           "id": "cloudflare",
@@ -1078,7 +1121,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 10,
+      "order": 11,
       "sites": [
         {
           "id": "github",
@@ -1128,7 +1171,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 11,
+      "order": 12,
       "sites": [
         {
           "id": "stackoverflow",
@@ -1171,7 +1214,7 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 12,
+      "order": 13,
       "sites": [
         {
           "id": "figma",
