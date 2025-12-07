@@ -1061,10 +1061,39 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1765081221873",
+      "icon": "📒",
+      "name": "个人博客",
+      "order": 10,
+      "sites": [
+        {
+          "id": "site-1765081318418",
+          "name": "test博客",
+          "url": "https://blog.888710.xyz/",
+          "description": "自建测试博客",
+          "icon": "https://favicon.im/blog.888710.xyz?larger=true"
+        },
+        {
+          "id": "site-1765081362523",
+          "name": "图床",
+          "url": "https://imgbed.888710.xyz/login",
+          "description": "自建个人图床",
+          "icon": "https://favicon.im/imgbed.888710.xyz?larger=true"
+        },
+        {
+          "id": "site-1765081436958",
+          "name": "dreamina",
+          "url": "https://dreamina.capcut.com/ai-tool/home/",
+          "description": "AI生成图片",
+          "icon": "/sitelogo/dreamina.capcut.com.ico"
+        }
+      ]
+    },
+    {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 10,
+      "order": 11,
       "sites": [
         {
           "id": "cloudflare",
@@ -1121,7 +1150,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 11,
+      "order": 12,
       "sites": [
         {
           "id": "github",
@@ -1171,7 +1200,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 12,
+      "order": 13,
       "sites": [
         {
           "id": "stackoverflow",
@@ -1214,7 +1243,7 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 13,
+      "order": 14,
       "sites": [
         {
           "id": "figma",
@@ -1250,7 +1279,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 14,
+      "order": 15,
       "sites": [
         {
           "id": "mdn",
@@ -1286,7 +1315,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 15,
+      "order": 16,
       "sites": [
         {
           "id": "json-formatter",
@@ -1322,7 +1351,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 16,
+      "order": 17,
       "sites": [
         {
           "id": "bilibili",
@@ -1358,7 +1387,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 17,
+      "order": 18,
       "sites": [
         {
           "id": "notion",
