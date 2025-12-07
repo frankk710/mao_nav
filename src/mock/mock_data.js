@@ -905,17 +905,115 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-1765074333984",
+      "id": "category-1765073480046",
       "icon": "💻",
       "name": "影视资源",
       "order": 8,
       "sites": [
         {
-          "id": "site-1765074398543",
+          "id": "site-1765073583182",
           "name": "观影",
           "url": "https://www.gying.net",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.gying.net"
+          "icon": "https://favicon.im/www.gying.net?larger=true"
+        },
+        {
+          "id": "site-1765073597749",
+          "name": "厂长",
+          "url": "https://www.czzymovie.com/",
+          "description": "",
+          "icon": "/sitelogo/www.czzymovie.com.ico"
+        },
+        {
+          "id": "site-1765073668261",
+          "name": "CMoonTV",
+          "url": "https://cmoontv.dedyn.io/login?redirect=%2F",
+          "description": "",
+          "icon": "https://favicon.im/cmoontv.dedyn.io?larger=true"
+        },
+        {
+          "id": "site-1765073708790",
+          "name": "明月影院",
+          "url": "https://dy.tweek.top/",
+          "description": "",
+          "icon": "https://favicon.im/dy.tweek.top?larger=true"
+        },
+        {
+          "id": "site-1765073732797",
+          "name": "荐片",
+          "url": "https://www.jianpian14.com/#/home",
+          "description": "",
+          "icon": "/sitelogo/www.jianpian14.com.ico"
+        },
+        {
+          "id": "site-1765073746550",
+          "name": "可可影视",
+          "url": "https://www.kkys02.com/",
+          "description": "",
+          "icon": "/sitelogo/www.kkys02.com.ico"
+        },
+        {
+          "id": "site-1765073800318",
+          "name": "1lou电影下载",
+          "url": "https://www.1lou.me/",
+          "description": "",
+          "icon": "/sitelogo/www.1lou.me.ico"
+        },
+        {
+          "id": "site-1765073814078",
+          "name": "yinfans",
+          "url": "https://www.yinfans.me/",
+          "description": "",
+          "icon": "/sitelogo/www.yinfans.me.ico"
+        },
+        {
+          "id": "site-1765073827902",
+          "name": "欧乐影院",
+          "url": "https://www.olevod.com/",
+          "description": "",
+          "icon": "/sitelogo/www.olevod.com.ico"
+        },
+        {
+          "id": "site-1765073844423",
+          "name": "电影天堂",
+          "url": "https://www.dytt8899.com/",
+          "description": "",
+          "icon": "/sitelogo/www.dytt8899.com.ico"
+        },
+        {
+          "id": "site-1765073857208",
+          "name": "奈非工厂",
+          "url": "https://www.netflixgc.com/",
+          "description": "",
+          "icon": "/sitelogo/www.netflixgc.com.ico"
+        },
+        {
+          "id": "site-1765073892943",
+          "name": "CN影院",
+          "url": "https://cnys.tv/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/cnys.tv"
+        },
+        {
+          "id": "site-1765073927350",
+          "name": "奈菲",
+          "url": "https://www.netflix.com/",
+          "description": "",
+          "icon": "/sitelogo/www.netflix.com.ico"
+        },
+        {
+          "id": "site-1765073939142",
+          "name": "迪士尼",
+          "url": "https://www.disneyplus.com/",
+          "description": "",
+          "icon": "/sitelogo/www.disneyplus.com.ico"
+        },
+        {
+          "id": "site-1765073960167",
+          "name": "泰小圈",
+          "url": "https://txquu.com/",
+          "description": "泰国剧",
+          "icon": "/sitelogo/txquu.com.ico"
         }
       ]
     },
