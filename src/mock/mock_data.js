@@ -1174,13 +1174,6 @@ export const mockData = {
       "order": 12,
       "sites": [
         {
-          "id": "cloudflare",
-          "name": "Cloudflare",
-          "url": "https://www.cloudflare.com",
-          "description": "全球CDN和网络安全服务",
-          "icon": "/sitelogo/www.cloudflare.com.ico"
-        },
-        {
           "id": "vercel",
           "name": "Vercel",
           "url": "https://vercel.com",
@@ -1188,39 +1181,67 @@ export const mockData = {
           "icon": "/sitelogo/vercel.com.ico"
         },
         {
-          "id": "aws",
-          "name": "AWS",
-          "url": "https://aws.amazon.com",
-          "description": "亚马逊云服务",
-          "icon": "/sitelogo/aws.amazon.com.ico"
-        },
-        {
-          "id": "aliyun",
-          "name": "阿里云",
-          "url": "https://www.aliyun.com",
-          "description": "阿里巴巴云计算",
-          "icon": "/sitelogo/www.aliyun.com.ico"
-        },
-        {
-          "id": "tencent-cloud",
-          "name": "腾讯云",
-          "url": "https://cloud.tencent.com",
-          "description": "腾讯云计算服务",
-          "icon": "/sitelogo/cloud.tencent.com.ico"
-        },
-        {
-          "id": "huawei-cloud",
-          "name": "华为云",
-          "url": "https://www.huaweicloud.com",
-          "description": "华为云计算服务",
-          "icon": "/sitelogo/www.huaweicloud.com.ico"
-        },
-        {
           "id": "site-1752644060499",
           "name": "怕死云",
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "/sitelogo/www.pasyun.com.ico"
+        },
+        {
+          "id": "site-1765157561633",
+          "name": "影响VPS速度的因素",
+          "url": "https://blog.laoda.de/archives/vps-speedtest",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/blog.laoda.de"
+        },
+        {
+          "id": "site-1765157634257",
+          "name": "VPS线路解析不完全指南",
+          "url": "https://iwanlab.com/vps-route/",
+          "description": "",
+          "icon": "https://favicon.im/iwanlab.com?larger=true"
+        },
+        {
+          "id": "site-1765157761558",
+          "name": "Hax",
+          "url": "https://hax.co.id/",
+          "description": "凌晨1点放鸡",
+          "icon": "https://favicon.im/hax.co.id?larger=true"
+        },
+        {
+          "id": "site-1765157810867",
+          "name": "56IDC",
+          "url": "https://56idc.net/store/toy-vps",
+          "description": "10元/年",
+          "icon": "https://favicon.im/56idc.net?larger=true"
+        },
+        {
+          "id": "site-1765157861195",
+          "name": "Freecloud",
+          "url": "https://freecloud.ltd/login",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/freecloud.ltd"
+        },
+        {
+          "id": "site-1765157895233",
+          "name": "Nat.freecloud",
+          "url": "https://nat.freecloud.ltd/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/nat.freecloud.ltd"
+        },
+        {
+          "id": "site-1765157915921",
+          "name": "Run.freecloud",
+          "url": "https://run.freecloud.ltd/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/run.freecloud.ltd"
+        },
+        {
+          "id": "site-1765157943147",
+          "name": "Panel.freecloud",
+          "url": "https://panel.freecloud.ltd/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/panel.freecloud.ltd"
         }
       ]
     },
