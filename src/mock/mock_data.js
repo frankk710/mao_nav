@@ -1218,7 +1218,7 @@ export const mockData = {
         {
           "id": "site-1765157861195",
           "name": "Freecloud",
-          "url": "https://freecloud.ltd/login",
+          "url": "https://freecloud.ltd",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/freecloud.ltd"
         },
@@ -1242,6 +1242,62 @@ export const mockData = {
           "url": "https://panel.freecloud.ltd/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/panel.freecloud.ltd"
+        },
+        {
+          "id": "site-1765159366980",
+          "name": "Web.freecloud",
+          "url": "https://web.freecloud.ltd",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/web.freecloud.ltd"
+        },
+        {
+          "id": "site-1765159463364",
+          "name": "projectk",
+          "url": "https://store.projectk.org/",
+          "description": "2$1年",
+          "icon": "https://www.faviconextractor.com/favicon/store.projectk.org"
+        },
+        {
+          "id": "site-1765159569648",
+          "name": "SAP",
+          "url": "https://www.sap.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.sap.com"
+        },
+        {
+          "id": "site-1765159763880",
+          "name": "Legendvps",
+          "url": "https://legendvps.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/legendvps.com"
+        },
+        {
+          "id": "site-1765159811211",
+          "name": "Claw Cloud",
+          "url": "https://us-east-1.run.claw.cloud/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/us-east-1.run.claw.cloud"
+        },
+        {
+          "id": "site-1765159853651",
+          "name": "RackNerd",
+          "url": "https://www.racknerd.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.racknerd.com"
+        },
+        {
+          "id": "site-1765159874851",
+          "name": "CloudCone",
+          "url": "http://hello.cloudcone.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/hello.cloudcone.com"
+        },
+        {
+          "id": "site-1765159928205",
+          "name": "ColoCrosSing",
+          "url": "https://www.colocrossing.com/",
+          "description": "",
+          "icon": "https://favicon.im/www.colocrossing.com?larger=true"
         }
       ]
     },
