@@ -82,6 +82,20 @@ export const mockData = {
           "url": "https://jinb.top/",
           "description": "",
           "icon": "https://jinb.top/favicon.ico"
+        },
+        {
+          "id": "site-1765157418182",
+          "name": "Nodeseek",
+          "url": "https://www.nodeseek.com/categories/daily",
+          "description": "",
+          "icon": "https://favicon.im/www.nodeseek.com?larger=true"
+        },
+        {
+          "id": "site-1765157455944",
+          "name": "Nodeloc",
+          "url": "https://www.nodeloc.com/",
+          "description": "",
+          "icon": "https://favicon.im/www.nodeloc.com?larger=true"
         }
       ]
     },
