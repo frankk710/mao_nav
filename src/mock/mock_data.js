@@ -1377,20 +1377,6 @@ export const mockData = {
           "icon": "https://favicon.im/www.cloudcat.one?larger=true"
         },
         {
-          "id": "site-1765159811211",
-          "name": "Claw Cloud",
-          "url": "https://us-east-1.run.claw.cloud/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/us-east-1.run.claw.cloud"
-        },
-        {
-          "id": "vercel",
-          "name": "Vercel",
-          "url": "https://vercel.com",
-          "description": "前端部署平台",
-          "icon": "/sitelogo/vercel.com.ico"
-        },
-        {
           "id": "site-1765162308673",
           "name": "IDX",
           "url": "https://idx.google.com/",
@@ -1419,6 +1405,20 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.webhostmost.com"
         },
         {
+          "id": "vercel",
+          "name": "Vercel",
+          "url": "https://vercel.com",
+          "description": "前端部署平台",
+          "icon": "/sitelogo/vercel.com.ico"
+        },
+        {
+          "id": "site-1765159811211",
+          "name": "Claw Cloud",
+          "url": "https://us-east-1.run.claw.cloud/",
+          "description": "5$/月容器",
+          "icon": "https://www.faviconextractor.com/favicon/us-east-1.run.claw.cloud"
+        },
+        {
           "id": "site-1765162489405",
           "name": "Wispbyte",
           "url": "https://wispbyte.com/client/servers/a13feef9/console",
@@ -1429,8 +1429,15 @@ export const mockData = {
           "id": "site-1765162531146",
           "name": "Zeabur",
           "url": "https://zeabur.com/account/usage",
-          "description": "容器-搭建佬王导航",
+          "description": "5$/月容器-搭建佬王导航",
           "icon": "https://www.faviconextractor.com/favicon/zeabur.com"
+        },
+        {
+          "id": "site-1765195603325",
+          "name": "railway",
+          "url": "https://railway.com/",
+          "description": "5$/月",
+          "icon": "https://www.faviconextractor.com/favicon/railway.com"
         },
         {
           "id": "site-1765162569996",
@@ -1438,13 +1445,6 @@ export const mockData = {
           "url": "https://www.911proxy.com/proxysite/",
           "description": "节点注册",
           "icon": "https://www.faviconextractor.com/favicon/www.911proxy.com"
-        },
-        {
-          "id": "site-1765195603325",
-          "name": "railway",
-          "url": "https://railway.com/",
-          "description": "容器",
-          "icon": "https://www.faviconextractor.com/favicon/railway.com"
         }
       ]
     },
