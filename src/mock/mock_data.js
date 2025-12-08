@@ -1298,6 +1298,69 @@ export const mockData = {
           "url": "https://www.colocrossing.com/",
           "description": "",
           "icon": "https://favicon.im/www.colocrossing.com?larger=true"
+        },
+        {
+          "id": "site-1765160913262",
+          "name": "Luolu",
+          "url": "https://idc.888644.xyz/clientarea.php?action=productdetails&id=117",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/idc.888644.xyz"
+        },
+        {
+          "id": "site-1765160955223",
+          "name": "独角鲸",
+          "url": "https://fuckip.me/",
+          "description": "1元/月",
+          "icon": "https://www.faviconextractor.com/favicon/fuckip.me"
+        },
+        {
+          "id": "site-1765160994213",
+          "name": "0.5元联通快乐机",
+          "url": "https://console.vitebits.com/?page=login",
+          "description": "联通快乐机",
+          "icon": "https://www.faviconextractor.com/favicon/console.vitebits.com"
+        },
+        {
+          "id": "site-1765161042835",
+          "name": "AkileCloud",
+          "url": "https://akile.io/",
+          "description": "",
+          "icon": "https://favicon.im/akile.io?larger=true"
+        },
+        {
+          "id": "site-1765161063165",
+          "name": "ACCK Cloud",
+          "url": "https://acck.io/",
+          "description": "",
+          "icon": "https://favicon.im/acck.io?larger=true"
+        },
+        {
+          "id": "site-1765161143919",
+          "name": "青蛙",
+          "url": "https://mikr.us/?utm_source=meta&utm_medium=cpc&utm_campaign=%40+Konwersja+VPS+v2",
+          "description": "只允许波兰IP注册",
+          "icon": "https://favicon.im/mikr.us?larger=true"
+        },
+        {
+          "id": "site-1765161208991",
+          "name": "Halocloud",
+          "url": "https://my.halocloud.net/index.php?rp=/store/hongkong-hkbgp-standard-ipv6",
+          "description": "0.3$vps",
+          "icon": "https://favicon.im/my.halocloud.net?larger=true"
+        },
+        {
+          "id": "site-1765161252301",
+          "name": "Bytevirt",
+          "url": "https://bytevirt.com/store/special-offers",
+          "description": "",
+          "icon": "https://favicon.im/bytevirt.com?larger=true"
+        },
+        {
+          "id": "site-1765161401102",
+          "name": "Hosting",
+          "url": "https://hosting.gullo.me/",
+          "description": "优惠码后1.5$",
+          "icon": "https://favicon.im/hosting.gullo.me?larger=true"
         }
       ]
     },
