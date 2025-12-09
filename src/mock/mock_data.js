@@ -1120,28 +1120,28 @@ export const mockData = {
           "id": "site-1765156574429",
           "name": "Cloudns",
           "url": "https://www.cloudns.net/",
-          "description": "双向解析，已停止托管",
+          "description": "cloudns.ch",
           "icon": "https://www.faviconextractor.com/favicon/www.cloudns.net"
         },
         {
           "id": "site-1765156793861",
           "name": "Netassist",
           "url": "https://tb.netassist.ua/",
-          "description": "ip6免费域名",
+          "description": "9.6.e.b.0.d.0.0.1.0.a.2.ip6.arpa",
           "icon": "https://www.faviconextractor.com/favicon/tb.netassist.ua"
         },
         {
           "id": "site-1765156885873",
           "name": "Tunnelbroker",
           "url": "https://tunnelbroker.net/",
-          "description": "ip6免费域名",
+          "description": "f.f.f.f.0.7.4.0.1.0.0.2.ip6.arpa",
           "icon": "https://www.faviconextractor.com/favicon/tunnelbroker.net"
         },
         {
           "id": "site-1765156953454",
           "name": "Net Libre",
           "url": "https://www.netlib.re/",
-          "description": "已停止注册",
+          "description": "***.netlib.re",
           "icon": "https://www.faviconextractor.com/favicon/www.netlib.re"
         },
         {
@@ -1155,14 +1155,14 @@ export const mockData = {
           "id": "site-1765157090560",
           "name": "Hidns",
           "url": "https://www.hidoha.net/",
-          "description": "半年续签",
+          "description": "tcp.hidns.vip-半年续签",
           "icon": "https://favicon.im/www.hidoha.net?larger=true"
         },
         {
           "id": "site-1765157271694",
           "name": "L53",
           "url": "https://customer.l53.net/",
-          "description": "ggff域名有snippets",
+          "description": "ggff域名有snippets【年续】",
           "icon": "https://favicon.im/customer.l53.net?larger=true"
         }
       ]
