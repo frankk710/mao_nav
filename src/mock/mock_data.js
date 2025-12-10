@@ -371,7 +371,7 @@ export const mockData = {
           "name": "MetaAI",
           "url": "https://www.meta.ai/",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.meta.ai"
+          "icon": "https://favicon.im/www.meta.ai?larger=true"
         },
         {
           "id": "site-1764836576306",
@@ -420,7 +420,7 @@ export const mockData = {
           "name": "Felo--Aippt",
           "url": "https://felo.ai/search?utm_source=ai-bot.cn",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/felo.ai"
+          "icon": "https://favicon.im/felo.ai?larger=true"
         },
         {
           "id": "site-1764837224337",
