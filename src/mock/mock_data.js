@@ -1164,6 +1164,13 @@ export const mockData = {
           "url": "https://customer.l53.net/",
           "description": "ggff域名有snippets【年续】",
           "icon": "https://favicon.im/customer.l53.net?larger=true"
+        },
+        {
+          "id": "site-1765352208861",
+          "name": "域名监控",
+          "url": "https://doman.174682830.workers.dev/dashboard",
+          "description": "监控域名到期时间",
+          "icon": "https://www.faviconextractor.com/favicon/doman.174682830.workers.dev"
         }
       ]
     },
@@ -1467,6 +1474,27 @@ export const mockData = {
           "url": "https://trojan.888710.xyz/jinhuiyi",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/trojan.888710.xyz"
+        },
+        {
+          "id": "site-1765351720960",
+          "name": "CM优选订阅",
+          "url": "https://sub.cmliussss.net/sub",
+          "description": "优选订阅生成器",
+          "icon": "https://favicon.im/sub.cmliussss.net?larger=true"
+        },
+        {
+          "id": "site-1765351888152",
+          "name": "vps汇聚订阅",
+          "url": "https://sub.888710.xyz/jinhuiyi",
+          "description": "cm代码自建汇聚订阅",
+          "icon": "https://www.faviconextractor.com/favicon/sub.888710.xyz"
+        },
+        {
+          "id": "site-1765352324286",
+          "name": "BPSUB",
+          "url": "https://bpsub.888710.xyz/",
+          "description": "BPSUB订阅生成",
+          "icon": "https://www.faviconextractor.com/favicon/bpsub.888710.xyz"
         }
       ]
     },
@@ -1482,14 +1510,72 @@ export const mockData = {
       "icon": "💻",
       "name": "joey",
       "order": 15,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1765352510161",
+          "name": "群友cloudflare ip订阅",
+          "url": "https://vpn.snu.cc/",
+          "description": "登录实现优选ip",
+          "icon": "https://www.faviconextractor.com/favicon/vpn.snu.cc"
+        },
+        {
+          "id": "site-1765352620820",
+          "name": "joey-sni",
+          "url": "https://hello.jinhuiyi.ggff.net/ddd27ec5-0b5e-471d-8af3-bfdb16ccd0a9",
+          "description": "ggff.net-sni",
+          "icon": "https://www.faviconextractor.com/favicon/hello.jinhuiyi.ggff.net"
+        },
+        {
+          "id": "site-1765352682962",
+          "name": "joey-sni-2",
+          "url": "https://sni.jinhuiyi.cloudns.ch/521c25f3-3cf8-4a17-be97-b746cb07fc87",
+          "description": "cloudns.ch--sni",
+          "icon": "https://www.faviconextractor.com/favicon/sni.jinhuiyi.cloudns.ch"
+        },
+        {
+          "id": "site-1765352813700",
+          "name": "joey-zaza-sni",
+          "url": "https://zaza.jinhuiyi.ggff.net/aad823f8-3548-43aa-a569-7e1b2c86b2f3",
+          "description": "joey第一版-相信光sni",
+          "icon": "https://www.faviconextractor.com/favicon/zaza.jinhuiyi.ggff.net"
+        },
+        {
+          "id": "site-1765352972990",
+          "name": "wll.cloudns-sni",
+          "url": "https://wll.jinhuiyi.cloudns.ch/c340a98d-6c47-40da-bdb7-3055ffdb50b9",
+          "description": "网友分享sni，非joey代码\n",
+          "icon": "https://www.faviconextractor.com/favicon/wll.jinhuiyi.cloudns.ch"
+        }
+      ]
     },
     {
       "id": "category-1765351085865",
       "icon": "📱",
-      "name": "甬哥",
+      "name": "甬哥+3K+AM",
       "order": 16,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1765351397570",
+          "name": "CF勇哥-Vless",
+          "url": "https://zazayg.jinhuiyi.dpdns.org/5af9f410-30c8-48e0-bd05-21e6549555b9",
+          "description": "老版本代码",
+          "icon": "https://favicon.im/ygkkk.blogspot.com?larger=true"
+        },
+        {
+          "id": "site-1765351477638",
+          "name": "3K大佬",
+          "url": "https://3k.888710.xyz/8e12802b-eb2d-46ef-aa3f-fe4e7a1dead0",
+          "description": "老版本代码",
+          "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA8klEQVR4nO3VIQ7CUBAG4YXgsU0QXKGqF+UAHKEWjawi3ADRpLYnAEFAofuR9J8L7GTy3u7mej49a8VstYAmAbSAJgG0gCYBtIAmAbSAJgG0gCYBtIAmAbSAJgG0gCYBtIAmAbSAJgG0gCYBtIAmAbSAZvUBdksO2zeHOrZdzdNY++ZQ90u/5PifLPoC5mms+6Wvx22oqncQDfkCx7arqncQDQnwuA01T+M3hGT1O2DRAJ8d8E+s/gwmgBbQJIAW0CSAFtAkgBbQJIAW0CSAFtAkgBbQJIAW0CSAFtAkgBbQJIAW0CSAFtAkgBbQJIAW0LwAzV0lJb7RKzQAAAAASUVORK5CYII="
+        },
+        {
+          "id": "site-1765352041511",
+          "name": "AM订阅",
+          "url": "https://amkeji.888710.xyz/832db373-99e6-4472-aafc-56a68d832144?sub",
+          "description": "AM科技-vless+trojan",
+          "icon": "https://favicon.im/amclubss.com?larger=true"
+        }
+      ]
     },
     {
       "id": "learning",
@@ -1560,6 +1646,21 @@ export const mockData = {
           "url": "https://tinypng.com",
           "description": "图片压缩工具",
           "icon": "/sitelogo/tinypng.com.ico"
+        }
+      ]
+    },
+    {
+      "id": "category-1765353076128",
+      "icon": "🌐",
+      "name": "群友分享",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1765353103430",
+          "name": "群友分享",
+          "url": "https://hhhhh.eu.org/#close",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/hhhhh.eu.org"
         }
       ]
     }
