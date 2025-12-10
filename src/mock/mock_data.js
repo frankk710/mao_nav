@@ -1450,7 +1450,7 @@ export const mockData = {
     },
     {
       "id": "dev-tools",
-      "name": " 自建订阅",
+      "name": "CM",
       "icon": "💼",
       "order": 13,
       "sites": [
@@ -1460,14 +1460,42 @@ export const mockData = {
           "url": "https://gfczm.888710.xyz/89edd3e7-5e9e-402b-a5e0-17b5da3c2921",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/gfczm.888710.xyz"
+        },
+        {
+          "id": "site-1765350393094",
+          "name": "cm-trojan",
+          "url": "https://trojan.888710.xyz/jinhuiyi",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/trojan.888710.xyz"
         }
       ]
+    },
+    {
+      "id": "category-1765351037271",
+      "icon": "👥",
+      "name": "佬王",
+      "order": 14,
+      "sites": []
+    },
+    {
+      "id": "category-1765351064521",
+      "icon": "💻",
+      "name": "joey",
+      "order": 15,
+      "sites": []
+    },
+    {
+      "id": "category-1765351085865",
+      "icon": "📱",
+      "name": "甬哥",
+      "order": 16,
+      "sites": []
     },
     {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 16,
+      "order": 17,
       "sites": [
         {
           "id": "mdn",
@@ -1503,7 +1531,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 17,
+      "order": 18,
       "sites": [
         {
           "id": "json-formatter",
