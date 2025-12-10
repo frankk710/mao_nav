@@ -53,12 +53,7 @@
       </nav>
 
       <!-- 左侧边栏底部信息 -->
-      <div class="sidebar-footer">
-  <div class="github-link" title="开心每一天">
-    <span>⭐开心每一天⭐</span>
-  </div>
-</div>
-      <!-- 
+    
       <div class="sidebar-footer">
         <a
           href="https://github.com/frankk710/mao_nav"
@@ -74,7 +69,7 @@
         </a>
       </div>
     </aside>
-    -->
+
     <!-- 右侧主内容区 -->
     <main class="main-content">
                   <!-- 顶部搜索栏 -->
