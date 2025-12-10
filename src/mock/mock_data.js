@@ -1171,6 +1171,13 @@ export const mockData = {
           "url": "https://doman.174682830.workers.dev/dashboard",
           "description": "监控域名到期时间",
           "icon": "https://www.faviconextractor.com/favicon/doman.174682830.workers.dev"
+        },
+        {
+          "id": "site-1765353734632",
+          "name": "IP6.ARPA域名",
+          "url": "https://ip6.9.6.e.b.0.d.0.0.1.0.a.2.ip6.arpa/",
+          "description": "IP6.ARPA域名自动添加SSL证书",
+          "icon": "https://www.faviconextractor.com/favicon/ip6.9.6.e.b.0.d.0.0.1.0.a.2.ip6.arpa"
         }
       ]
     },
@@ -1495,6 +1502,34 @@ export const mockData = {
           "url": "https://bpsub.888710.xyz/",
           "description": "BPSUB订阅生成",
           "icon": "https://www.faviconextractor.com/favicon/bpsub.888710.xyz"
+        },
+        {
+          "id": "site-1765353660904",
+          "name": "cm优选ip",
+          "url": "https://cf.090227.xyz/",
+          "description": "在线优选域名",
+          "icon": "https://favicon.im/vercel.blog.cmliussss.com?larger=true"
+        },
+        {
+          "id": "site-1765354873554",
+          "name": "cm订阅转换",
+          "url": "https://sub.cmliussss.com/",
+          "description": "订阅转换前端",
+          "icon": "https://www.faviconextractor.com/favicon/sub.cmliussss.com"
+        },
+        {
+          "id": "site-1765355914964",
+          "name": "cm-edt2.0",
+          "url": "https://ed2.888710.xyz/admin",
+          "description": "edt2.0新项目",
+          "icon": "https://favicon.im/sub.cmliussss.net?larger=true"
+        },
+        {
+          "id": "site-1765355968800",
+          "name": "cm博客优选域名",
+          "url": "https://blog.cmliussss.com/p/CloudFlare%E4%BC%98%E9%80%89",
+          "description": "优选域名",
+          "icon": "https://favicon.im/sub.cmliussss.net?larger=true"
         }
       ]
     },
@@ -1503,7 +1538,22 @@ export const mockData = {
       "icon": "👥",
       "name": "佬王",
       "order": 14,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1765354955380",
+          "name": "佬王sni",
+          "url": "https://laow.jinhuiyi.cloudns.ch/69295fba-df22-49ca-952f-9c14faf5d168",
+          "description": "第1版sni",
+          "icon": "https://favicon.im/nav.eooce.com?larger=true"
+        },
+        {
+          "id": "site-1765355032074",
+          "name": "佬王-ss",
+          "url": "https://laowss.jinhuiyi.cloudns.ch/fbea9d0d-12bc-43e5-ba87-a61d31012d2a",
+          "description": "佬王sni-ss",
+          "icon": "https://favicon.im/nav.eooce.com?larger=true"
+        }
+      ]
     },
     {
       "id": "category-1765351064521",
@@ -1512,39 +1562,53 @@ export const mockData = {
       "order": 15,
       "sites": [
         {
-          "id": "site-1765352510161",
-          "name": "群友cloudflare ip订阅",
-          "url": "https://vpn.snu.cc/",
-          "description": "登录实现优选ip",
-          "icon": "https://www.faviconextractor.com/favicon/vpn.snu.cc"
-        },
-        {
           "id": "site-1765352620820",
           "name": "joey-sni",
           "url": "https://hello.jinhuiyi.ggff.net/ddd27ec5-0b5e-471d-8af3-bfdb16ccd0a9",
           "description": "ggff.net-sni",
-          "icon": "https://www.faviconextractor.com/favicon/hello.jinhuiyi.ggff.net"
+          "icon": "https://favicon.im/joeyblog.net?larger=true"
         },
         {
           "id": "site-1765352682962",
-          "name": "joey-sni-2",
+          "name": "joey-sni-1",
           "url": "https://sni.jinhuiyi.cloudns.ch/521c25f3-3cf8-4a17-be97-b746cb07fc87",
           "description": "cloudns.ch--sni",
-          "icon": "https://www.faviconextractor.com/favicon/sni.jinhuiyi.cloudns.ch"
+          "icon": "https://favicon.im/joeyblog.net?larger=true"
+        },
+        {
+          "id": "site-1765355580447",
+          "name": "joey-sni-2",
+          "url": "https://sni2.jinhuiyi.cloudns.ch/jinhuiyi",
+          "description": "cloudns.ch--sni2",
+          "icon": "https://favicon.im/joeyblog.net?larger=true"
         },
         {
           "id": "site-1765352813700",
           "name": "joey-zaza-sni",
           "url": "https://zaza.jinhuiyi.ggff.net/aad823f8-3548-43aa-a569-7e1b2c86b2f3",
-          "description": "joey第一版-相信光sni",
-          "icon": "https://www.faviconextractor.com/favicon/zaza.jinhuiyi.ggff.net"
+          "description": "joey第一版-sni",
+          "icon": "https://favicon.im/joeyblog.net?larger=true"
         },
         {
           "id": "site-1765352972990",
           "name": "wll.cloudns-sni",
           "url": "https://wll.jinhuiyi.cloudns.ch/c340a98d-6c47-40da-bdb7-3055ffdb50b9",
           "description": "网友分享sni，非joey代码\n",
-          "icon": "https://www.faviconextractor.com/favicon/wll.jinhuiyi.cloudns.ch"
+          "icon": "https://favicon.im/joeyblog.net?larger=true"
+        },
+        {
+          "id": "site-1765353581582",
+          "name": "相信光第1版",
+          "url": "https://xxguang.888710.xyz/7eace8a1-8d0b-4ddd-9886-95c7c56f12dc",
+          "description": "相信光workers部署第一版",
+          "icon": "https://favicon.im/joeyblog.net?larger=true"
+        },
+        {
+          "id": "site-1765354785036",
+          "name": "相信光2",
+          "url": "https://xxg.ioooi.netlib.re/jinhuiyi",
+          "description": "workers部署第二版相信光",
+          "icon": "https://favicon.im/joeyblog.net?larger=true"
         }
       ]
     },
@@ -1656,11 +1720,25 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
+          "id": "site-1765353375629",
+          "name": "群友分享1",
+          "url": "https://vpn.snu.cc/",
+          "description": "可以实现在线优选",
+          "icon": "https://www.faviconextractor.com/favicon/vpn.snu.cc"
+        },
+        {
           "id": "site-1765353103430",
-          "name": "群友分享",
+          "name": "群友分享2",
           "url": "https://hhhhh.eu.org/#close",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/hhhhh.eu.org"
+        },
+        {
+          "id": "site-1765353803972",
+          "name": "群友分享3",
+          "url": "https://github.com/shuaidaoya/FreeNodes",
+          "description": "Github在线订阅链接，4小时更新",
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
         }
       ]
     }
