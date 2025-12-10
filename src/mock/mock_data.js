@@ -1642,10 +1642,39 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1765353076128",
+      "icon": "🌐",
+      "name": "群友分享",
+      "order": 17,
+      "sites": [
+        {
+          "id": "site-1765353375629",
+          "name": "群友分享1",
+          "url": "https://vpn.snu.cc/",
+          "description": "可以实现在线优选",
+          "icon": "https://www.faviconextractor.com/favicon/vpn.snu.cc"
+        },
+        {
+          "id": "site-1765353103430",
+          "name": "群友分享2",
+          "url": "https://hhhhh.eu.org/#close",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/hhhhh.eu.org"
+        },
+        {
+          "id": "site-1765353803972",
+          "name": "群友分享3",
+          "url": "https://github.com/shuaidaoya/FreeNodes",
+          "description": "Github在线订阅链接，4小时更新",
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
+        }
+      ]
+    },
+    {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 17,
+      "order": 18,
       "sites": [
         {
           "id": "mdn",
@@ -1681,7 +1710,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 18,
+      "order": 19,
       "sites": [
         {
           "id": "json-formatter",
@@ -1710,35 +1739,6 @@ export const mockData = {
           "url": "https://tinypng.com",
           "description": "图片压缩工具",
           "icon": "/sitelogo/tinypng.com.ico"
-        }
-      ]
-    },
-    {
-      "id": "category-1765353076128",
-      "icon": "🌐",
-      "name": "群友分享",
-      "order": 0,
-      "sites": [
-        {
-          "id": "site-1765353375629",
-          "name": "群友分享1",
-          "url": "https://vpn.snu.cc/",
-          "description": "可以实现在线优选",
-          "icon": "https://www.faviconextractor.com/favicon/vpn.snu.cc"
-        },
-        {
-          "id": "site-1765353103430",
-          "name": "群友分享2",
-          "url": "https://hhhhh.eu.org/#close",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/hhhhh.eu.org"
-        },
-        {
-          "id": "site-1765353803972",
-          "name": "群友分享3",
-          "url": "https://github.com/shuaidaoya/FreeNodes",
-          "description": "Github在线订阅链接，4小时更新",
-          "icon": "https://www.faviconextractor.com/favicon/github.com"
         }
       ]
     }
