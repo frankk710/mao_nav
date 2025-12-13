@@ -169,13 +169,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/bigdata.icu"
         },
         {
-          "id": "site-1764837552183",
-          "name": "CF自建Cloudnav导航",
-          "url": "https://cloudnav.ama.netlib.re/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/cloudnav.ama.netlib.re"
-        },
-        {
           "id": "site-1764837600296",
           "name": "CF自建导航",
           "url": "https://dhy.ama.netlib.re/",
