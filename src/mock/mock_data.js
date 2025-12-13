@@ -787,6 +787,13 @@ export const mockData = {
           "url": "https://wormhole.app/",
           "description": "中转网盘",
           "icon": "/sitelogo/wormhole.app.ico"
+        },
+        {
+          "id": "site-1765634007664",
+          "name": "Tailscale",
+          "url": "https://tailscale.com/",
+          "description": "内网穿透，p2p打洞",
+          "icon": "https://www.faviconextractor.com/favicon/tailscale.com"
         }
       ]
     },
