@@ -1035,6 +1035,13 @@ export const mockData = {
           "url": "https://cmoontv.dedyn.io/",
           "description": "",
           "icon": "https://favicon.im/cmoontv.dedyn.io?larger=true"
+        },
+        {
+          "id": "site-1765625762611",
+          "name": "群友分享电影",
+          "url": "https://ccc.keai2025.xyz/",
+          "description": "佬王群友分享",
+          "icon": "https://www.faviconextractor.com/favicon/ccc.keai2025.xyz"
         }
       ]
     },
