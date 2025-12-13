@@ -10,21 +10,21 @@ export const mockData = {
           "id": "site-1764765907688",
           "name": "恩山论坛",
           "url": "https://www.right.com.cn/forum/forum-169-1.html",
-          "description": "{pboot:sitedescription}",
-          "icon": "https://www.faviconextractor.com/favicon/www.right.com.cn"
+          "description": "无线路由爱好者圣地",
+          "icon": "https://favicon.im/www.right.com.cn?larger=true"
         },
         {
           "id": "site-1764769612815",
           "name": "Emulatedlab",
           "url": "https://www.emulatedlab.com/thread-939-1-1.html",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.emulatedlab.com"
+          "description": "EVE-NG 网络仿真与讨论社区",
+          "icon": "https://favicon.im/www.emulatedlab.com?larger=true"
         },
         {
           "id": "site-1764769654239",
           "name": "如此玩",
           "url": "https://www.ruciwan.com/",
-          "description": "",
+          "description": "以传奇游戏为主题的社区网站",
           "icon": "https://www.faviconextractor.com/favicon/www.ruciwan.com"
         },
         {
