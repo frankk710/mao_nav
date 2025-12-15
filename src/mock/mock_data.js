@@ -1480,14 +1480,14 @@ export const mockData = {
           "name": "cm-vless",
           "url": "https://gfczm.888710.xyz/89edd3e7-5e9e-402b-a5e0-17b5da3c2921",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/gfczm.888710.xyz"
+          "icon": "https://favicon.im/sub.cmliussss.net?larger=true"
         },
         {
           "id": "site-1765350393094",
           "name": "cm-trojan",
           "url": "https://trojan.888710.xyz/jinhuiyi",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/trojan.888710.xyz"
+          "icon": "https://favicon.im/sub.cmliussss.net?larger=true"
         },
         {
           "id": "site-1765351720960",
@@ -1501,14 +1501,14 @@ export const mockData = {
           "name": "vps汇聚订阅",
           "url": "https://sub.888710.xyz/jinhuiyi",
           "description": "cm代码自建汇聚订阅",
-          "icon": "https://www.faviconextractor.com/favicon/sub.888710.xyz"
+          "icon": "https://favicon.im/sub.cmliussss.net?larger=true"
         },
         {
           "id": "site-1765352324286",
           "name": "BPSUB",
           "url": "https://bpsub.888710.xyz/",
           "description": "BPSUB订阅生成",
-          "icon": "https://www.faviconextractor.com/favicon/bpsub.888710.xyz"
+          "icon": "https://favicon.im/sub.cmliussss.net?larger=true"
         },
         {
           "id": "site-1765353660904",
@@ -1637,7 +1637,7 @@ export const mockData = {
           "name": "3K大佬",
           "url": "https://3k.888710.xyz/8e12802b-eb2d-46ef-aa3f-fe4e7a1dead0",
           "description": "老版本代码",
-          "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA8klEQVR4nO3VIQ7CUBAG4YXgsU0QXKGqF+UAHKEWjawi3ADRpLYnAEFAofuR9J8L7GTy3u7mej49a8VstYAmAbSAJgG0gCYBtIAmAbSAJgG0gCYBtIAmAbSAJgG0gCYBtIAmAbSAJgG0gCYBtIAmAbSAZvUBdksO2zeHOrZdzdNY++ZQ90u/5PifLPoC5mms+6Wvx22oqncQDfkCx7arqncQDQnwuA01T+M3hGT1O2DRAJ8d8E+s/gwmgBbQJIAW0CSAFtAkgBbQJIAW0CSAFtAkgBbQJIAW0CSAFtAkgBbQJIAW0CSAFtAkgBbQJIAW0LwAzV0lJb7RKzQAAAAASUVORK5CYII="
+          "icon": "https://favicon.im/3k.com?larger=true"
         },
         {
           "id": "site-1765352041511",
