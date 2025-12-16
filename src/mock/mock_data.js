@@ -178,7 +178,7 @@ export const mockData = {
         {
           "id": "site-1764837631471",
           "name": "CF自建猫猫导航",
-          "url": "https://mao.ama.netlib.re/",
+          "url": "https://mao.soa.de5.net/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/mao.ama.netlib.re"
         }
