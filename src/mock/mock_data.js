@@ -1466,6 +1466,13 @@ export const mockData = {
           "url": "https://www.911proxy.com/proxysite/",
           "description": "节点注册",
           "icon": "https://www.faviconextractor.com/favicon/www.911proxy.com"
+        },
+        {
+          "id": "site-1765976253647",
+          "name": "icmp9",
+          "url": "https://icmp9.com/",
+          "description": "签到:1次/7日",
+          "icon": "https://favicon.im/icmp9.com?larger=true"
         }
       ]
     },
@@ -1750,7 +1757,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "收藏夹",
-  "_fileSha": "0774b09292e7ace7543c7f6bb7930233898035ca",
-  "search": "google"
+  "title": "收藏夹"
 }
