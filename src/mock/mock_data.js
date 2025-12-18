@@ -1346,7 +1346,7 @@ export const mockData = {
           "name": "青蛙",
           "url": "https://mikr.us/?utm_source=meta&utm_medium=cpc&utm_campaign=%40+Konwersja+VPS+v2",
           "description": "只允许波兰IP注册",
-          "icon": "https://favicon.im/mikr.us?larger=true"
+          "icon": "https://favicon.im/mikr.us"
         },
         {
           "id": "site-1765161208991",
