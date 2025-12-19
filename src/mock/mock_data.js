@@ -1480,6 +1480,13 @@ export const mockData = {
           "url": "https://leaflow.net/",
           "description": "佬王推荐容器",
           "icon": "https://www.faviconextractor.com/favicon/leaflow.net"
+        },
+        {
+          "id": "site-1766125184946",
+          "name": "galaxycloud",
+          "url": "https://beta.galaxycloud.app/jinhuiyi710/us-east-1",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/beta.galaxycloud.app"
         }
       ]
     },
