@@ -1464,7 +1464,7 @@ export const mockData = {
           "id": "site-1765195603325",
           "name": "railway",
           "url": "https://railway.com/",
-          "description": "5$/月",
+          "description": "5$/月，需要纯净节点",
           "icon": "https://www.faviconextractor.com/favicon/railway.com"
         },
         {
