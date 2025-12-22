@@ -114,8 +114,8 @@ export const mockData = {
         },
         {
           "id": "site-1764815097754",
-          "name": "CF",
-          "url": "https://dash.cloudflare.com/",
+          "name": "Cloudflare",
+          "url": "https://www.cloudflare.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/dash.cloudflare.com"
         },
