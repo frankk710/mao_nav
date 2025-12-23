@@ -1457,7 +1457,7 @@ export const mockData = {
           "id": "site-1765162489405",
           "name": "Wispbyte",
           "url": "https://wispbyte.com/client/servers/a13feef9/console",
-          "description": "容器-正常使用",
+          "description": "容器-正常使用\nhttps://github.com/eishare/tuic-hy2-node.js-python 项目代码\nhttps://www.youtube.com/watch?v=znbBp29KXAQ 视频教程",
           "icon": "https://favicon.im/wispbyte.com?larger=true"
         },
         {
