@@ -659,7 +659,7 @@ export const mockData = {
     {
       "id": "category-1764908311674",
       "icon": "💼",
-      "name": "常用工具",
+      "name": "常用软件",
       "order": 5,
       "sites": [
         {
