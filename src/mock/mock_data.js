@@ -141,6 +141,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/mail.google.com"
         },
         {
+          "id": "site-1766584970923",
+          "name": "edu.kg邮箱",
+          "url": "https://zmkk.edu.kg/login",
+          "description": "edu.kg邮箱",
+          "icon": "https://www.faviconextractor.com/favicon/zmkk.edu.kg"
+        },
+        {
           "id": "site-1764835831850",
           "name": "谷歌地图",
           "url": "https://www.google.com/maps/?hl=zh-cn",
