@@ -1433,13 +1433,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/web.c-servers.co.uk"
         },
         {
-          "id": "site-1765162391541",
-          "name": "Huggingface",
-          "url": "https://huggingface.co/",
-          "description": "黄脸容器",
-          "icon": "https://favicon.im/huggingface.co?larger=true"
-        },
-        {
           "id": "site-1765162441169",
           "name": "WebHost",
           "url": "https://www.webhostmost.com/free-web-hosting",
@@ -1447,11 +1440,25 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.webhostmost.com"
         },
         {
+          "id": "site-1765162569996",
+          "name": "CT8代理节点注册",
+          "url": "https://www.911proxy.com/proxysite/",
+          "description": "节点注册",
+          "icon": "https://www.faviconextractor.com/favicon/www.911proxy.com"
+        },
+        {
           "id": "vercel",
           "name": "Vercel",
           "url": "https://vercel.com",
           "description": "前端部署平台",
           "icon": "/sitelogo/vercel.com.ico"
+        },
+        {
+          "id": "site-1765162391541",
+          "name": "Huggingface",
+          "url": "https://huggingface.co/",
+          "description": "黄脸容器",
+          "icon": "https://favicon.im/huggingface.co?larger=true"
         },
         {
           "id": "site-1765159811211",
@@ -1482,13 +1489,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/railway.com"
         },
         {
-          "id": "site-1765162569996",
-          "name": "CT8代理节点注册",
-          "url": "https://www.911proxy.com/proxysite/",
-          "description": "节点注册",
-          "icon": "https://www.faviconextractor.com/favicon/www.911proxy.com"
-        },
-        {
           "id": "site-1766044110337",
           "name": "leaflow",
           "url": "https://leaflow.net/",
@@ -1501,6 +1501,13 @@ export const mockData = {
           "url": "https://beta.galaxycloud.app/jinhuiyi710/us-east-1",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/beta.galaxycloud.app"
+        },
+        {
+          "id": "site-1766652749396",
+          "name": "alwaysdata-容器",
+          "url": "https://admin.alwaysdata.com/",
+          "description": "alwaysdata-容器",
+          "icon": "https://www.faviconextractor.com/favicon/admin.alwaysdata.com"
         }
       ]
     },
