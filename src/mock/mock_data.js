@@ -1199,6 +1199,13 @@ export const mockData = {
           "url": "https://registry.kevsrv.me/dashboard",
           "description": "who.ae.kg域名2099年",
           "icon": "https://www.faviconextractor.com/favicon/registry.kevsrv.me"
+        },
+        {
+          "id": "site-1766718032027",
+          "name": "gv.uy",
+          "url": "https://nic.gv.uy/",
+          "description": "域名+免费vps",
+          "icon": "https://www.faviconextractor.com/favicon/nic.gv.uy"
         }
       ]
     },
