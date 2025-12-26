@@ -1499,7 +1499,7 @@ export const mockData = {
           "id": "site-1766125184946",
           "name": "galaxycloud",
           "url": "https://beta.galaxycloud.app/jinhuiyi710/us-east-1",
-          "description": "",
+          "description": "未搭建使用",
           "icon": "https://www.faviconextractor.com/favicon/beta.galaxycloud.app"
         },
         {
@@ -1558,13 +1558,6 @@ export const mockData = {
           "url": "https://cf.090227.xyz/",
           "description": "在线优选域名",
           "icon": "https://favicon.im/vercel.blog.cmliussss.com?larger=true"
-        },
-        {
-          "id": "site-1766743999892",
-          "name": "自建订阅转换前端",
-          "url": "https://subqianduan.888710.xyz/",
-          "description": "爪云后端，CF前端",
-          "icon": "https://favicon.im/sub.cmliussss.net?larger=true"
         },
         {
           "id": "site-1765354873554",
