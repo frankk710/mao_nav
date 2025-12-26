@@ -1194,13 +1194,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/ip6.9.6.e.b.0.d.0.0.1.0.a.2.ip6.arpa"
         },
         {
-          "id": "site-1766416251558",
-          "name": "Kevin Service",
-          "url": "https://registry.kevsrv.me/dashboard",
-          "description": "who.ae.kg域名2099年",
-          "icon": "https://www.faviconextractor.com/favicon/registry.kevsrv.me"
-        },
-        {
           "id": "site-1766718032027",
           "name": "gv.uy",
           "url": "https://nic.gv.uy/",
