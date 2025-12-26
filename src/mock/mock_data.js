@@ -1560,6 +1560,13 @@ export const mockData = {
           "icon": "https://favicon.im/vercel.blog.cmliussss.com?larger=true"
         },
         {
+          "id": "site-1766743999892",
+          "name": "自建订阅转换前端",
+          "url": "https://subqianduan.888710.xyz/",
+          "description": "爪云后端，CF前端",
+          "icon": "https://favicon.im/sub.cmliussss.net?larger=true"
+        },
+        {
           "id": "site-1765354873554",
           "name": "cm订阅转换",
           "url": "https://sub.cmliussss.com/",
