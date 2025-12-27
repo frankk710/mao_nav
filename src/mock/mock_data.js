@@ -1515,6 +1515,13 @@ export const mockData = {
           "url": "https://admin.alwaysdata.com/",
           "description": "alwaysdata-容器",
           "icon": "https://www.faviconextractor.com/favicon/admin.alwaysdata.com"
+        },
+        {
+          "id": "site-1766837317079",
+          "name": "Hubhost",
+          "url": "https://hubuhost.com/",
+          "description": "可搭建网站",
+          "icon": "https://www.faviconextractor.com/favicon/hubuhost.com"
         }
       ]
     },
