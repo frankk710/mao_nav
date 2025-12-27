@@ -188,6 +188,13 @@ export const mockData = {
           "url": "https://mao.soa.de5.net/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/mao.ama.netlib.re"
+        },
+        {
+          "id": "site-1766834451315",
+          "name": "Webssh",
+          "url": "https://ssh.tcp.hidns.vip/",
+          "description": "cm爪云webssh",
+          "icon": "https://www.faviconextractor.com/favicon/ssh.tcp.hidns.vip"
         }
       ]
     },
