@@ -1070,6 +1070,13 @@ export const mockData = {
           "url": "https://cmoontv.dedyn.io/",
           "description": "",
           "icon": "https://favicon.im/cmoontv.dedyn.io?larger=true"
+        },
+        {
+          "id": "site-1767254860762",
+          "name": "站长资源站",
+          "url": "https://www.zzzypro.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.zzzypro.com"
         }
       ]
     },
