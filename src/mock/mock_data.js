@@ -674,6 +674,13 @@ export const mockData = {
           "url": "https://ippure.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/ippure.com"
+        },
+        {
+          "id": "site-1767688463198",
+          "name": "IP检测",
+          "url": "https://ipjiance.com/",
+          "description": "检测您的ip质量",
+          "icon": "https://www.faviconextractor.com/favicon/ipjiance.com"
         }
       ]
     },
