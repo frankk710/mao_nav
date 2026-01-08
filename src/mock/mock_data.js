@@ -893,6 +893,27 @@ export const mockData = {
           "url": "https://trovo.live/",
           "description": "网络直播平台",
           "icon": "https://favicon.im/trovo.live?larger=true"
+        },
+        {
+          "id": "site-1767840174081",
+          "name": "kick直播",
+          "url": "https://kick.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/kick.com"
+        },
+        {
+          "id": "site-1767840281410",
+          "name": "dlive直播",
+          "url": "https://dlive.tv/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/dlive.tv"
+        },
+        {
+          "id": "site-1767840392173",
+          "name": "younow直播",
+          "url": "https://www.younow.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.younow.com"
         }
       ]
     },
