@@ -1664,6 +1664,13 @@ export const mockData = {
           "url": "https://laowss.jinhuiyi.cloudns.ch/fbea9d0d-12bc-43e5-ba87-a61d31012d2a",
           "description": "佬王sni-ss",
           "icon": "https://favicon.im/nav.eooce.com?larger=true"
+        },
+        {
+          "id": "site-1768046931644",
+          "name": "佬王项目地址",
+          "url": "https://github.com/eooce/Cloudflare-proxy/tree/main",
+          "description": "_worker、shadowsocks、snippets、jstrojan",
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
         }
       ]
     },
