@@ -1660,7 +1660,7 @@ export const mockData = {
         },
         {
           "id": "site-1765355032074",
-          "name": "佬王-ss",
+          "name": "佬王-ss.cloudns.ch",
           "url": "https://laowss.jinhuiyi.cloudns.ch/fbea9d0d-12bc-43e5-ba87-a61d31012d2a",
           "description": "佬王sni-ss",
           "icon": "https://favicon.im/nav.eooce.com?larger=true"
@@ -1671,6 +1671,13 @@ export const mockData = {
           "url": "https://github.com/eooce/Cloudflare-proxy/tree/main",
           "description": "_worker、shadowsocks、snippets、jstrojan",
           "icon": "https://www.faviconextractor.com/favicon/github.com"
+        },
+        {
+          "id": "site-1768048578222",
+          "name": "佬王ss.ggff.net",
+          "url": "https://ss.jinhuiyi.ggff.net/a9f4ecf5-0767-466b-b052-5cff5130c683",
+          "description": "",
+          "icon": "https://favicon.im/nav.eooce.com?larger=true"
         }
       ]
     },
