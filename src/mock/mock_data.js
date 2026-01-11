@@ -1667,9 +1667,9 @@ export const mockData = {
         },
         {
           "id": "site-1768046931644",
-          "name": "佬王项目地址",
+          "name": "佬王项目",
           "url": "https://github.com/eooce/Cloudflare-proxy/tree/main",
-          "description": "_worker、shadowsocks、snippets、jstrojan",
+          "description": "worker、ss、sni、trojan",
           "icon": "https://www.faviconextractor.com/favicon/github.com"
         },
         {
