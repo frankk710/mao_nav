@@ -1642,6 +1642,13 @@ export const mockData = {
           "url": "https://blog.cmliussss.com/p/CloudFlare%E4%BC%98%E9%80%89",
           "description": "优选域名",
           "icon": "https://favicon.im/sub.cmliussss.net?larger=true"
+        },
+        {
+          "id": "site-1768361190458",
+          "name": "ed2-de5",
+          "url": "https://ed2.nea.de5.net/admin",
+          "description": "de5.net",
+          "icon": "https://favicon.im/sub.cmliussss.net?larger=true"
         }
       ]
     },
