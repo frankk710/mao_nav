@@ -148,6 +148,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/zmkk.edu.kg"
         },
         {
+          "id": "site-1768449846458",
+          "name": "163邮箱",
+          "url": "https://mail.163.com/",
+          "description": "",
+          "icon": "https://favicon.im/mail.163.com?larger=true"
+        },
+        {
           "id": "site-1764835831850",
           "name": "谷歌地图",
           "url": "https://www.google.com/maps/?hl=zh-cn",
@@ -1585,6 +1592,13 @@ export const mockData = {
           "url": "https://www.ct8.pl/",
           "description": "容器",
           "icon": "https://www.faviconextractor.com/favicon/www.ct8.pl"
+        },
+        {
+          "id": "site-1768446818122",
+          "name": "2刀",
+          "url": "https://ssh.eooce.com/terminal?hostname=2602%3Af93b%3A131%3Ac001%3A%3A1056&port=22&username=root&password=Omw%2BIVhydzA4YWVCeTl1dA%3D%3D",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ssh.eooce.com"
         }
       ]
     },
