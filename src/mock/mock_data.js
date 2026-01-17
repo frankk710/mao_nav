@@ -571,13 +571,6 @@ export const mockData = {
           "icon": "https://favicon.im/ip.skk.moe?larger=true"
         },
         {
-          "id": "site-1764896071552",
-          "name": "ipinfo",
-          "url": "https://ipinfo.io/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/ipinfo.io"
-        },
-        {
           "id": "site-1764896092776",
           "name": "ip欺诈检测",
           "url": "https://scamalytics.com/ip",
@@ -611,13 +604,6 @@ export const mockData = {
           "url": "https://www.ipip.net/?origin=EN",
           "description": "",
           "icon": "https://favicon.im/www.ipip.net?larger=true"
-        },
-        {
-          "id": "site-1764896279120",
-          "name": "myipaddress-IP地址检测",
-          "url": "https://whatismyipaddress.com/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/whatismyipaddress.com"
         },
         {
           "id": "site-1764896313984",
@@ -695,6 +681,27 @@ export const mockData = {
           "url": "https://ipjiance.com/",
           "description": "检测您的ip质量",
           "icon": "https://www.faviconextractor.com/favicon/ipjiance.com"
+        },
+        {
+          "id": "site-1768652521956",
+          "name": "iping.cc",
+          "url": "https://www.iping.cc/",
+          "description": "ip检测",
+          "icon": "https://www.faviconextractor.com/favicon/www.iping.cc"
+        },
+        {
+          "id": "site-1764896279120",
+          "name": "myipaddress-IP地址检测",
+          "url": "https://whatismyipaddress.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/whatismyipaddress.com"
+        },
+        {
+          "id": "site-1764896071552",
+          "name": "ipinfo",
+          "url": "https://ipinfo.io/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ipinfo.io"
         }
       ]
     },
