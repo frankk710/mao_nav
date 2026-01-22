@@ -1788,7 +1788,7 @@ export const mockData = {
         {
           "id": "site-1765354785036",
           "name": "相信光2",
-          "url": "https://xxgm.jinhuiyi777.workers.dev/416b4b45-6da2-4a7e-ac5e-cab1301203e2",
+          "url": "https://xxxgm.jinhuiyi777.workers.dev/75270bb7-5ee8-4404-8fcd-65ccb57f6493",
           "description": "workers部署第二版相信光",
           "icon": "https://favicon.im/joeyblog.net?larger=true"
         }
