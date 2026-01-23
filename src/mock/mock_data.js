@@ -202,6 +202,13 @@ export const mockData = {
           "url": "https://ssh.tcp.hidns.vip/",
           "description": "cm爪云webssh",
           "icon": "https://www.faviconextractor.com/favicon/ssh.tcp.hidns.vip"
+        },
+        {
+          "id": "site-1769134863871",
+          "name": "监控平台",
+          "url": "https://vps.55cc.cc.cd/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/vps.55cc.cc.cd"
         }
       ]
     },
