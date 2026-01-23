@@ -805,7 +805,7 @@ export const mockData = {
         {
           "id": "site-1764909508756",
           "name": "运维杂谈",
-          "url": "http://8.130.29.146:6688/",
+          "url": "https://down.netintmast.cn/",
           "description": "网络测试、Ai配置交换机",
           "icon": "https://www.faviconextractor.com/favicon/8.130.29.146:6688"
         },
