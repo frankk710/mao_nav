@@ -209,6 +209,13 @@ export const mockData = {
           "url": "https://vps.55cc.cc.cd/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/vps.55cc.cc.cd"
+        },
+        {
+          "id": "site-1769305076499",
+          "name": "JKW Mail邮箱",
+          "url": "https://email.55cc.cc.cd/",
+          "description": "自建邮箱",
+          "icon": "https://www.faviconextractor.com/favicon/email.55cc.cc.cd"
         }
       ]
     },
