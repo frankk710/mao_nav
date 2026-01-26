@@ -1863,6 +1863,13 @@ export const mockData = {
           "url": "https://github.com/shuaidaoya/FreeNodes",
           "description": "Github在线订阅链接，4小时更新",
           "icon": "https://www.faviconextractor.com/favicon/github.com"
+        },
+        {
+          "id": "site-1769419518783",
+          "name": "北极光代理",
+          "url": "https://tomcat1235.nyc.mn/",
+          "description": "Socks5",
+          "icon": "https://www.faviconextractor.com/favicon/tomcat1235.nyc.mn"
         }
       ]
     },
