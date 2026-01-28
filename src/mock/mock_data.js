@@ -864,6 +864,13 @@ export const mockData = {
           "url": "https://tailscale.com/",
           "description": "内网穿透，p2p打洞",
           "icon": "https://www.faviconextractor.com/favicon/tailscale.com"
+        },
+        {
+          "id": "site-1769589204647",
+          "name": "GD音乐",
+          "url": "https://music.gdstudio.xyz/",
+          "description": ".org国内直连",
+          "icon": "https://www.faviconextractor.com/favicon/music.gdstudio.xyz"
         }
       ]
     },
