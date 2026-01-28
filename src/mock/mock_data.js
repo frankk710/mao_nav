@@ -868,7 +868,7 @@ export const mockData = {
         {
           "id": "site-1769589204647",
           "name": "GD音乐",
-          "url": "https://music.gdstudio.xyz/",
+          "url": "https://music.gdstudio.org/",
           "description": ".org国内直连",
           "icon": "https://www.faviconextractor.com/favicon/music.gdstudio.xyz"
         }
