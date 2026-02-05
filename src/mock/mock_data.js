@@ -1719,6 +1719,13 @@ export const mockData = {
           "url": "https://ed2.nea.de5.net/admin",
           "description": "de5.net",
           "icon": "https://favicon.im/sub.cmliussss.net?larger=true"
+        },
+        {
+          "id": "site-1770272960744",
+          "name": "ProxyIP Aurora",
+          "url": "https://ddx.snu.cc/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ddx.snu.cc"
         }
       ]
     },
