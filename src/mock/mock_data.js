@@ -1861,15 +1861,8 @@ export const mockData = {
           "id": "site-1765353375629",
           "name": "群友分享1",
           "url": "https://vpn.snu.cc/",
-          "description": "可以实现在线优选",
+          "description": "在线优选pass:cmliu",
           "icon": "https://www.faviconextractor.com/favicon/vpn.snu.cc"
-        },
-        {
-          "id": "site-1765353103430",
-          "name": "群友分享2",
-          "url": "https://hhhhh.eu.org/#close",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/hhhhh.eu.org"
         },
         {
           "id": "site-1765353803972",
