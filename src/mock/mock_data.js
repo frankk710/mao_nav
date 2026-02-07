@@ -1884,6 +1884,34 @@ export const mockData = {
           "url": "https://tomcat1235.nyc.mn/",
           "description": "Socks5",
           "icon": "https://www.faviconextractor.com/favicon/tomcat1235.nyc.mn"
+        },
+        {
+          "id": "site-1770448266286",
+          "name": "sin优选域名",
+          "url": "https://saas.sin.fan/#domains",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/saas.sin.fan"
+        },
+        {
+          "id": "site-1770448311421",
+          "name": "works智能中控项目",
+          "url": "https://github.com/hc990275/cfauto",
+          "description": "聚合cf-worker订阅",
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
+        },
+        {
+          "id": "site-1770448374653",
+          "name": "优选域名",
+          "url": "https://vps789.com/cfip/?remarks=domain",
+          "description": "优选域名",
+          "icon": ""
+        },
+        {
+          "id": "site-1770448468732",
+          "name": "免费socks5代理",
+          "url": "https://tomcat1235.nyc.mn/proxy_list",
+          "description": "socks5",
+          "icon": "https://www.faviconextractor.com/favicon/tomcat1235.nyc.mn"
         }
       ]
     },
