@@ -1912,6 +1912,13 @@ export const mockData = {
           "url": "https://tomcat1235.nyc.mn/proxy_list",
           "description": "socks5",
           "icon": "https://www.faviconextractor.com/favicon/tomcat1235.nyc.mn"
+        },
+        {
+          "id": "site-1770448793076",
+          "name": "Proxyip",
+          "url": "https://ddx.snu.cc/",
+          "description": "群友项目pass:cmliu",
+          "icon": "https://www.faviconextractor.com/favicon/ddx.snu.cc"
         }
       ]
     },
