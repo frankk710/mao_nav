@@ -1615,13 +1615,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/hubuhost.com"
         },
         {
-          "id": "site-1767148178665",
-          "name": "gv.uy域名服务器",
-          "url": "https://ssh.tcp.hidns.vip/?hostname=192.99.100.48&port=27722&username=root&password=IHoxVUBpelhfTEAkRjBDMGE=&command=",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/ssh.tcp.hidns.vip"
-        },
-        {
           "id": "site-1768396298723",
           "name": "Server00",
           "url": "https://www.serv00.com/",
