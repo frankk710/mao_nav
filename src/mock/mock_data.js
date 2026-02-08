@@ -1647,7 +1647,7 @@ export const mockData = {
           "name": "dracobyte",
           "url": "https://dracobyte.pro/#pricing",
           "description": "游戏机",
-          "icon": "https://www.faviconextractor.com/favicon/dracobyte.pro"
+          "icon": "https://favicon.im/dracobyte.pro?larger=true"
         }
       ]
     },
