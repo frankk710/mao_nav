@@ -1641,6 +1641,13 @@ export const mockData = {
           "url": "https://ssh.eooce.com/terminal?hostname=2602%3Af93b%3A131%3Ac001%3A%3A1056&port=22&username=root&password=Omw%2BIVhydzA4YWVCeTl1dA%3D%3D",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/ssh.eooce.com"
+        },
+        {
+          "id": "site-1770551958973",
+          "name": "dracobyte",
+          "url": "https://dracobyte.pro/#pricing",
+          "description": "游戏机",
+          "icon": "https://www.faviconextractor.com/favicon/dracobyte.pro"
         }
       ]
     },
