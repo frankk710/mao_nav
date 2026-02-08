@@ -1641,6 +1641,13 @@ export const mockData = {
           "url": "https://dracobyte.pro/#pricing",
           "description": "游戏机",
           "icon": "https://favicon.im/dracobyte.pro?larger=true"
+        },
+        {
+          "id": "site-1770558724198",
+          "name": "免费德国小鸡",
+          "url": "https://56idc.pp.ua/",
+          "description": "甬哥argosbx脚本-jin710",
+          "icon": "https://www.faviconextractor.com/favicon/56idc.pp.ua"
         }
       ]
     },
