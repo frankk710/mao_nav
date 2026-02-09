@@ -25,7 +25,7 @@ export const mockData = {
           "name": "如此玩",
           "url": "https://www.ruciwan.com/",
           "description": "以传奇游戏为主题的社区网站",
-          "icon": "https://www.faviconextractor.com/favicon/www.ruciwan.com"
+          "icon": "https://favicon.im/www.faviconextractor.com?larger=true"
         },
         {
           "id": "site-1764769907759",
@@ -39,7 +39,7 @@ export const mockData = {
           "name": "精睿论坛",
           "url": "https://bbs.vc52.cn/",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/bbs.vc52.cn"
+          "icon": "https://favicon.im/www.faviconextractor.com?larger=true"
         },
         {
           "id": "site-1764769986287",
