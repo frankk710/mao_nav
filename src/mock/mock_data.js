@@ -1641,6 +1641,20 @@ export const mockData = {
           "url": "https://56idc.pp.ua/",
           "description": "甬哥argosbx脚本-jin710",
           "icon": "https://www.faviconextractor.com/favicon/56idc.pp.ua"
+        },
+        {
+          "id": "site-1770805056832",
+          "name": "sap企业版注册入口",
+          "url": "https://www.sap.com/products/technology-platform/pricing.html#pricing-options",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.sap.com"
+        },
+        {
+          "id": "site-1770805119512",
+          "name": "sap企业版登录入口",
+          "url": "https://emea.cockpit.btp.cloud.sap/cockpit/# ",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/emea.cockpit.btp.cloud.sap"
         }
       ]
     },
