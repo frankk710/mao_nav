@@ -1426,6 +1426,13 @@ export const mockData = {
           "icon": "https://favicon.im/www.colocrossing.com?larger=true"
         },
         {
+          "id": "site-1770901166499",
+          "name": "CCS黑色星期五",
+          "url": "https://cloud.colocrossing.com/cart.php?a=confproduct&i=0",
+          "description": "",
+          "icon": "https://favicon.im/www.colocrossing.com?larger=true"
+        },
+        {
           "id": "site-1765160913262",
           "name": "Luolu",
           "url": "https://idc.888644.xyz/clientarea.php?action=productdetails&id=117",
