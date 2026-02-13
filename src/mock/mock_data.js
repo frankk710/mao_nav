@@ -1662,6 +1662,13 @@ export const mockData = {
           "url": "https://emea.cockpit.btp.cloud.sap/cockpit/# ",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/emea.cockpit.btp.cloud.sap"
+        },
+        {
+          "id": "site-1770991673084",
+          "name": "RackNerd Plus，RackNerd VPS 套餐比较",
+          "url": "https://racknerd.plus/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/racknerd.plus"
         }
       ]
     },
