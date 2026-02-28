@@ -1669,6 +1669,13 @@ export const mockData = {
           "url": "https://racknerd.plus/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/racknerd.plus"
+        },
+        {
+          "id": "site-1772241803893",
+          "name": "Wasmer-佬王",
+          "url": "https://wasmer.io/jinhuiyi",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/wasmer.io"
         }
       ]
     },
