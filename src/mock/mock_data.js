@@ -96,6 +96,13 @@ export const mockData = {
           "url": "https://www.nodeloc.com/",
           "description": "",
           "icon": "https://favicon.im/www.nodeloc.com?larger=true"
+        },
+        {
+          "id": "site-1772277222571",
+          "name": "lowendtalk",
+          "url": "https://lowendtalk.com/",
+          "description": "VPS论坛、流量翻倍",
+          "icon": "https://www.faviconextractor.com/favicon/lowendtalk.com"
         }
       ]
     },
