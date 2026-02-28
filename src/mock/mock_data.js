@@ -1212,6 +1212,13 @@ export const mockData = {
           "url": "https://dreamina.capcut.com/ai-tool/home/",
           "description": "AI生成图片",
           "icon": "/sitelogo/dreamina.capcut.com.ico"
+        },
+        {
+          "id": "site-1772244499793",
+          "name": "图片转提示词",
+          "url": "https://imageprompt.org/zh/image-to-prompt",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/imageprompt.org"
         }
       ]
     },
