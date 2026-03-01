@@ -730,6 +730,13 @@ export const mockData = {
           "url": "https://ipinfo.io/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/ipinfo.io"
+        },
+        {
+          "id": "site-1772375184389",
+          "name": "IP质量检测",
+          "url": "https://meowvps.com/tools/ip-check/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/meowvps.com"
         }
       ]
     },
