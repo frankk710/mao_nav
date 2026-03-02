@@ -1909,7 +1909,7 @@ export const mockData = {
         {
           "id": "site-1765353375629",
           "name": "群友分享1",
-          "url": "https://vpn.snu.cc/",
+          "url": "https://ddx.snu.cc/这个项目是哪个大佬的，密码改了吗",
           "description": "在线优选pass:cmliu",
           "icon": "https://www.faviconextractor.com/favicon/vpn.snu.cc"
         },
