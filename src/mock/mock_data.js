@@ -25,7 +25,7 @@ export const mockData = {
           "name": "如此玩",
           "url": "https://www.ruciwan.com/",
           "description": "以传奇游戏为主题的社区网站",
-          "icon": "https://favicon.im/www.faviconextractor.com?larger=true"
+          "icon": "https://favicon.im/www.ruciwan.com?larger=true"
         },
         {
           "id": "site-1764769907759",
@@ -39,21 +39,21 @@ export const mockData = {
           "name": "精睿论坛",
           "url": "https://bbs.vc52.cn/",
           "description": "",
-          "icon": "https://favicon.im/www.faviconextractor.com?larger=true"
+          "icon": "https://favicon.im/bbs.vc52.cn?larger=true"
         },
         {
           "id": "site-1764769986287",
           "name": "鸿鹄论坛",
           "url": "https://bbs.hh010.com/forum.php",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/bbs.hh010.com"
+          "icon": "https://favicon.im/bbs.hh010.com?larger=true"
         },
         {
           "id": "site-1764770105824",
           "name": "攻城狮论坛",
           "url": "http://bbs.vlan5.com/",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/bbs.vlan5.com"
+          "icon": "https://favicon.im/bbs.vlan5.com?larger=true"
         },
         {
           "id": "site-1764770155519",
@@ -67,7 +67,7 @@ export const mockData = {
           "name": "Routerclub",
           "url": "https://bbs.routerclub.com/member.php?mod=connect",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/bbs.routerclub.com"
+          "icon": "https://favicon.im/bbs.routerclub.com?larger=true"
         },
         {
           "id": "site-1764770249370",
@@ -124,21 +124,21 @@ export const mockData = {
           "name": "Cloudflare",
           "url": "https://www.cloudflare.com/",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/dash.cloudflare.com"
+          "icon": "https://favicon.im/www.cloudflare.com?larger=true"
         },
         {
           "id": "site-1764815160536",
           "name": "帮我吧",
           "url": "https://www.bangwo8.com/osp2016/agent/bw8Frame.php?argv=https://www.bangwo8.com/osp2016/agent/index.php",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.bangwo8.com"
+          "icon": "https://favicon.im/www.bangwo8.com?larger=true"
         },
         {
           "id": "site-1764815187394",
           "name": "QQ邮箱",
           "url": "https://mail.qq.com/?cancel_login=true&from=session_timeout",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/mail.qq.com"
+          "icon": "https://favicon.im/mail.qq.com?larger=true"
         },
         {
           "id": "site-1764815210080",
@@ -328,7 +328,7 @@ export const mockData = {
           "name": "零度博客",
           "url": "https://www.freedidi.com/",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.freedidi.com"
+          "icon": "https://favicon.im/www.freedidi.com?larger=true"
         },
         {
           "id": "site-1764836065531",
