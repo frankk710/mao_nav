@@ -1885,6 +1885,13 @@ export const mockData = {
       "order": 16,
       "sites": [
         {
+          "id": "site-1772621083221",
+          "name": "勇哥argosbx脚本",
+          "url": "https://yonggekkk.github.io/argosbx/",
+          "description": "",
+          "icon": "https://favicon.im/ygkkk.blogspot.com?larger=true"
+        },
+        {
           "id": "site-1765351397570",
           "name": "CF勇哥-Vless",
           "url": "https://zazayg.jinhuiyi.dpdns.org/5af9f410-30c8-48e0-bd05-21e6549555b9",
