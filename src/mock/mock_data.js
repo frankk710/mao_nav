@@ -1666,7 +1666,7 @@ export const mockData = {
         {
           "id": "site-1770551958973",
           "name": "dracobyte",
-          "url": "https://dracobyte.pro/#pricing",
+          "url": "https://billing.dracobyte.pro/store/free-server/free-server",
           "description": "游戏机",
           "icon": "https://favicon.im/dracobyte.pro?larger=true"
         },
