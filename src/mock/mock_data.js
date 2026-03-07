@@ -1332,6 +1332,20 @@ export const mockData = {
           "url": "https://nic.gv.uy/",
           "description": "域名+免费vps",
           "icon": "https://www.faviconextractor.com/favicon/nic.gv.uy"
+        },
+        {
+          "id": "site-1772875542712",
+          "name": "nodeloc域名",
+          "url": "https://domain.nodeloc.com/",
+          "description": "loc.cc",
+          "icon": "https://www.faviconextractor.com/favicon/domain.nodeloc.com"
+        },
+        {
+          "id": "site-1772875834399",
+          "name": "vps域名",
+          "url": "https://vps8.zz.cd",
+          "description": "nec.com.cfd",
+          "icon": "https://www.faviconextractor.com/favicon/vps8.zz.cd"
         }
       ]
     },
