@@ -1315,7 +1315,7 @@ export const mockData = {
         {
           "id": "site-1765352208861",
           "name": "域名监控",
-          "url": "https://doman.174682830.workers.dev/dashboard",
+          "url": "https://doman.888710.xyz/",
           "description": "监控域名到期时间",
           "icon": "https://www.faviconextractor.com/favicon/doman.174682830.workers.dev"
         },
