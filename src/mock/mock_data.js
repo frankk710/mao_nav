@@ -2070,6 +2070,21 @@ export const mockData = {
           "icon": "/sitelogo/tinypng.com.ico"
         }
       ]
+    },
+    {
+      "id": "category-1773450231296",
+      "icon": "☁️",
+      "name": "大模型",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1773450321911",
+          "name": "agentrouter",
+          "url": "https://agentrouter.org/",
+          "description": "白嫖125美元额度，7个可用模型",
+          "icon": "https://favicon.im/agentrouter.org?larger=true"
+        }
+      ]
     }
   ],
   "title": "收藏夹"
