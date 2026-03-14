@@ -2083,6 +2083,13 @@ export const mockData = {
           "url": "https://agentrouter.org/",
           "description": "白嫖125美元额度，7个可用模型",
           "icon": "https://favicon.im/agentrouter.org?larger=true"
+        },
+        {
+          "id": "site-1773453725604",
+          "name": "英伟达免费api",
+          "url": "https://build.nvidia.com/settings/api-keys",
+          "description": "英伟达免费api",
+          "icon": "https://favicon.im/build.nvidia.com?larger=true"
         }
       ]
     }
