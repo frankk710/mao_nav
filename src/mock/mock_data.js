@@ -145,7 +145,7 @@ export const mockData = {
           "name": "谷歌邮箱",
           "url": "https://mail.google.com/mail/u/0/?pli=1#inbox",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/mail.google.com"
+          "icon": "https://favicon.im/mail.google.com?larger=true"
         },
         {
           "id": "site-1766584970923",
