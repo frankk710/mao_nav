@@ -484,6 +484,13 @@ export const mockData = {
           "url": "https://presenton.ai/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/presenton.ai"
+        },
+        {
+          "id": "site-1773797255777",
+          "name": "videoseek.ai",
+          "url": "https://www.videoseek.ai/",
+          "description": "视频整理文档",
+          "icon": "https://favicon.im/www.videoseek.ai?larger=true"
         }
       ]
     },
