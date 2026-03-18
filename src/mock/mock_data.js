@@ -1624,7 +1624,7 @@ export const mockData = {
         {
           "id": "site-1765159811211",
           "name": "Claw Cloud",
-          "url": "https://us-east-1.run.claw.cloud/",
+          "url": "https://ap-northeast-1.run.claw.cloud/",
           "description": "5$/月容器",
           "icon": "https://www.faviconextractor.com/favicon/us-east-1.run.claw.cloud"
         },
