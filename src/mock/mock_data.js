@@ -1760,6 +1760,13 @@ export const mockData = {
           "url": "https://runox.io/dashboard/servers/cmn2y0dpv03fzrt1r0sdul3fo",
           "description": "仍在排队创建",
           "icon": "https://www.faviconextractor.com/favicon/runox.io"
+        },
+        {
+          "id": "site-1774607182169",
+          "name": "bot_hosting",
+          "url": "https://bot-hosting.net/",
+          "description": "佬王游戏机",
+          "icon": "https://favicon.im/bot-hosting.net?larger=true"
         }
       ]
     },
