@@ -1767,6 +1767,13 @@ export const mockData = {
           "url": "https://bot-hosting.net/",
           "description": "佬王游戏机",
           "icon": "https://favicon.im/bot-hosting.net?larger=true"
+        },
+        {
+          "id": "site-1774609295826",
+          "name": "adkynet",
+          "url": "https://manager.adkynet.com/login",
+          "description": "佬王游戏机",
+          "icon": "https://favicon.im/manager.adkynet.com?larger=true"
         }
       ]
     },
