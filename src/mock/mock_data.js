@@ -491,6 +491,13 @@ export const mockData = {
           "url": "https://www.videoseek.ai/",
           "description": "视频整理文档",
           "icon": "https://favicon.im/www.videoseek.ai?larger=true"
+        },
+        {
+          "id": "site-1774706364874",
+          "name": "google-AI",
+          "url": "https://aistudio.google.com/prompts/new_chat",
+          "description": "谷歌AI",
+          "icon": "https://www.faviconextractor.com/favicon/aistudio.google.com"
         }
       ]
     },
