@@ -1767,6 +1767,13 @@ export const mockData = {
           "url": "https://bot-hosting.net/",
           "description": "佬王游戏机",
           "icon": "https://favicon.im/bot-hosting.net?larger=true"
+        },
+        {
+          "id": "site-1777522242094",
+          "name": "FireCrosmo",
+          "url": "https://fire.crosmo.de/",
+          "description": "无需签到",
+          "icon": "https://favicon.im/fire.crosmo.de?larger=true"
         }
       ]
     },
