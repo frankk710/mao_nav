@@ -2045,6 +2045,13 @@ export const mockData = {
           "url": "https://ddx.snu.cc/这个项目是哪个大佬的，密码改了吗",
           "description": "群友项目pass:cmliu",
           "icon": "https://www.faviconextractor.com/favicon/ddx.snu.cc"
+        },
+        {
+          "id": "site-1777976685616",
+          "name": "CF优选ip",
+          "url": "https://ip.v2too.top/",
+          "description": "群友分享",
+          "icon": "https://www.faviconextractor.com/favicon/ip.v2too.top"
         }
       ]
     },
