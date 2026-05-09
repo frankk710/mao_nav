@@ -1261,6 +1261,13 @@ export const mockData = {
           "url": "https://imageprompt.org/zh/image-to-prompt",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/imageprompt.org"
+        },
+        {
+          "id": "site-1778339103268",
+          "name": "华为云国际",
+          "url": "https://auth.huaweicloud.com/authui/login.html?service=https%3A%2F%2Fconsole-intl.huaweicloud.com%2Fdns%2F%3Fregion%3Dap-southeast-1#/login",
+          "description": "域名加速",
+          "icon": ""
         }
       ]
     },
