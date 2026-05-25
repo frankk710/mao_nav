@@ -765,6 +765,13 @@ export const mockData = {
           "url": "https://ipip.la/",
           "description": "ipip.la",
           "icon": "https://favicon.im/ipip.la?larger=true"
+        },
+        {
+          "id": "site-1779715216448",
+          "name": "Cleanip",
+          "url": "https://cleanip.io/",
+          "description": "ip纯净度评分",
+          "icon": "https://favicon.im/cleanip.io?larger=true"
         }
       ]
     },
