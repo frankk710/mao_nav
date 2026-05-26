@@ -920,6 +920,13 @@ export const mockData = {
           "url": "https://music.gdstudio.org/",
           "description": ".org国内直连",
           "icon": "https://www.faviconextractor.com/favicon/music.gdstudio.xyz"
+        },
+        {
+          "id": "site-1779777330408",
+          "name": "Orz Music",
+          "url": "https://orz.us.ci/",
+          "description": "听音乐",
+          "icon": "https://www.faviconextractor.com/favicon/orz.us.ci"
         }
       ]
     },
