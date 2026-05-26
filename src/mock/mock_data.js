@@ -1873,6 +1873,13 @@ export const mockData = {
           "url": "https://check.socks5.cmliussss.net/",
           "description": "socks5-检测",
           "icon": "https://favicon.im/sub.cmliussss.net?larger=true"
+        },
+        {
+          "id": "site-1779789870491",
+          "name": "socks5-list",
+          "url": "https://github.com/frankk710/free-proxy-list",
+          "description": "socks5 list",
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
         }
       ]
     },
