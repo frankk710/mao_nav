@@ -1866,6 +1866,13 @@ export const mockData = {
           "url": "https://ed2.nea.de5.net/admin",
           "description": "de5.net",
           "icon": "https://favicon.im/sub.cmliussss.net?larger=true"
+        },
+        {
+          "id": "site-1779782645484",
+          "name": "socks5-检测",
+          "url": "https://check.socks5.cmliussss.net/",
+          "description": "socks5-检测",
+          "icon": "https://favicon.im/sub.cmliussss.net?larger=true"
         }
       ]
     },
