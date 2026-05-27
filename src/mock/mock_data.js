@@ -927,6 +927,13 @@ export const mockData = {
           "url": "https://orz.us.ci/",
           "description": "听音乐",
           "icon": "https://www.faviconextractor.com/favicon/orz.us.ci"
+        },
+        {
+          "id": "site-1779847998483",
+          "name": "百度网盘解析工具",
+          "url": "https://kdown.moiu.cn/free/#/index",
+          "description": "百度网盘解析工具",
+          "icon": "https://www.faviconextractor.com/favicon/kdown.moiu.cn"
         }
       ]
     },
