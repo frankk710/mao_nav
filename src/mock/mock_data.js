@@ -1657,13 +1657,6 @@ export const mockData = {
           "icon": "https://favicon.im/huggingface.co?larger=true"
         },
         {
-          "id": "site-1765159811211",
-          "name": "Claw Cloud",
-          "url": "https://ap-northeast-1.run.claw.cloud/",
-          "description": "5$/月容器",
-          "icon": "https://www.faviconextractor.com/favicon/us-east-1.run.claw.cloud"
-        },
-        {
           "id": "site-1765162489405",
           "name": "Wispbyte",
           "url": "https://wispbyte.com/client/servers/a13feef9/console",
