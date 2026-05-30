@@ -1912,9 +1912,16 @@ export const mockData = {
         },
         {
           "id": "site-1768048578222",
-          "name": "佬王ss.ggff.net",
+          "name": "佬王ss.ggff.net-",
           "url": "https://lwss.jinhuiyi.ggff.net/2d6e3e7f-9edb-4d33-aa68-5e21eb77f846",
-          "description": "",
+          "description": "韩国落地",
+          "icon": "https://favicon.im/nav.eooce.com?larger=true"
+        },
+        {
+          "id": "site-1780126316109",
+          "name": "佬王lwssjp新",
+          "url": "http://lwssjp.jinhuiyi.ggff.net/2ea4d66c-fbdd-4816-9147-bb4661785993",
+          "description": "日本落地",
           "icon": "https://favicon.im/nav.eooce.com?larger=true"
         }
       ]
