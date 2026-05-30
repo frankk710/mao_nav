@@ -1913,7 +1913,7 @@ export const mockData = {
         {
           "id": "site-1768048578222",
           "name": "佬王ss.ggff.net",
-          "url": "https://ss.jinhuiyi.ggff.net/a9f4ecf5-0767-466b-b052-5cff5130c683",
+          "url": "https://lwss.jinhuiyi.ggff.net/2d6e3e7f-9edb-4d33-aa68-5e21eb77f846",
           "description": "",
           "icon": "https://favicon.im/nav.eooce.com?larger=true"
         }
