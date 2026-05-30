@@ -1920,7 +1920,7 @@ export const mockData = {
         {
           "id": "site-1780126316109",
           "name": "佬王lwssjp新",
-          "url": "http://lwssjp.jinhuiyi.ggff.net/2ea4d66c-fbdd-4816-9147-bb4661785993",
+          "url": "https://lwssjp.jinhuiyi.ggff.net/2ea4d66c-fbdd-4816-9147-bb4661785993",
           "description": "日本落地",
           "icon": "https://favicon.im/nav.eooce.com?larger=true"
         }
