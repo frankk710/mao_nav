@@ -1923,6 +1923,20 @@ export const mockData = {
           "url": "https://lwssjp.jinhuiyi.ggff.net/2ea4d66c-fbdd-4816-9147-bb4661785993",
           "description": "日本落地",
           "icon": "https://favicon.im/nav.eooce.com?larger=true"
+        },
+        {
+          "id": "site-1780196194710",
+          "name": "佬王SS-韩国",
+          "url": "https://lws.jinhuiyi.cloudns.ch/b196706c-c3ae-4256-b60b-4c884ec09a8b",
+          "description": "jinhuiyi.cloudns.ch",
+          "icon": "https://favicon.im/nav.eooce.com?larger=true"
+        },
+        {
+          "id": "site-1780196234525",
+          "name": "佬王SS-日本",
+          "url": "https://lwsjp.jinhuiyi.cloudns.ch/66007cc8-60e7-4aa9-8d21-16da21269ae0",
+          "description": "jinhuiyi.cloudns.ch",
+          "icon": "https://favicon.im/nav.eooce.com?larger=true"
         }
       ]
     },
