@@ -1926,15 +1926,15 @@ export const mockData = {
         },
         {
           "id": "site-1780196194710",
-          "name": "佬王SS-韩国",
-          "url": "https://lws.jinhuiyi.cloudns.ch/b196706c-c3ae-4256-b60b-4c884ec09a8b",
+          "name": "ss-cloudns-韩国",
+          "url": "https://krss.jinhuiyi.cloudns.ch/ec1d3217-29ec-4c52-a4bf-25b118a85258",
           "description": "jinhuiyi.cloudns.ch",
           "icon": "https://favicon.im/nav.eooce.com?larger=true"
         },
         {
           "id": "site-1780196234525",
-          "name": "佬王SS-日本",
-          "url": "https://lwsjp.jinhuiyi.cloudns.ch/66007cc8-60e7-4aa9-8d21-16da21269ae0",
+          "name": "ss-cloudns-日本",
+          "url": "https://jps.jinhuiyi.cloudns.ch/45ce0b3d-f11e-437a-bc85-3ff8d46befbe",
           "description": "jinhuiyi.cloudns.ch",
           "icon": "https://favicon.im/nav.eooce.com?larger=true"
         }
