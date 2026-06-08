@@ -498,6 +498,13 @@ export const mockData = {
           "url": "https://aistudio.google.com/prompts/new_chat",
           "description": "谷歌AI",
           "icon": "https://www.faviconextractor.com/favicon/aistudio.google.com"
+        },
+        {
+          "id": "site-1780920829225",
+          "name": "ChatGPT Business",
+          "url": "https://chatgpt.com/c/6a26b17e-6bb4-832a-81bb-609e4823f9de",
+          "description": "ChatGPT Business 商业版",
+          "icon": "https://www.faviconextractor.com/favicon/chatgpt.com"
         }
       ]
     },
