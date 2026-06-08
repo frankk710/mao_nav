@@ -1388,6 +1388,13 @@ export const mockData = {
           "url": "https://vps8.zz.cd",
           "description": "nec.com.cfd",
           "icon": "https://www.faviconextractor.com/favicon/vps8.zz.cd"
+        },
+        {
+          "id": "site-1780909712816",
+          "name": "katabump",
+          "url": "https://dashboard.katabump.com/",
+          "description": "kdns.fr",
+          "icon": "https://favicon.im/dashboard.katabump.com"
         }
       ]
     },
