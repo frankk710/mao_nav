@@ -1934,29 +1934,36 @@ export const mockData = {
         {
           "id": "site-1768048578222",
           "name": "佬王ss.ggff.net-",
-          "url": "https://lwss.jinhuiyi.ggff.net/2d6e3e7f-9edb-4d33-aa68-5e21eb77f846",
+          "url": "https://krr.jinhuiyi.ggff.net/66ebe8df-b4a4-4f65-b5c8-25a50ca21f8e",
           "description": "韩国落地",
           "icon": "https://favicon.im/nav.eooce.com?larger=true"
         },
         {
           "id": "site-1780126316109",
           "name": "佬王lwssjp新",
-          "url": "https://lwssjp.jinhuiyi.ggff.net/2ea4d66c-fbdd-4816-9147-bb4661785993",
+          "url": "https://jjp.jinhuiyi.ggff.net/1e2910a9-f7c3-4d6c-9a3b-2d5222902a4c",
           "description": "日本落地",
           "icon": "https://favicon.im/nav.eooce.com?larger=true"
         },
         {
           "id": "site-1780196194710",
           "name": "ss-cloudns-韩国",
-          "url": "https://krss.jinhuiyi.cloudns.ch/ec1d3217-29ec-4c52-a4bf-25b118a85258",
+          "url": "https://kr.jinhuiyi.cloudns.ch/14802358-5b1e-4075-8ec1-d06646eab533",
           "description": "jinhuiyi.cloudns.ch",
           "icon": "https://favicon.im/nav.eooce.com?larger=true"
         },
         {
           "id": "site-1780196234525",
           "name": "ss-cloudns-日本",
-          "url": "https://jps.jinhuiyi.cloudns.ch/45ce0b3d-f11e-437a-bc85-3ff8d46befbe",
+          "url": "https://jpp.jinhuiyi.cloudns.ch/fd117f9c-809f-4db5-a9a6-3663560e4b11",
           "description": "jinhuiyi.cloudns.ch",
+          "icon": "https://favicon.im/nav.eooce.com?larger=true"
+        },
+        {
+          "id": "site-1781078800178",
+          "name": "ggff.net-op",
+          "url": "https://opp.jinhuiyi.ggff.net/5653d57e-445f-4b8e-9657-9a8c65888bd8",
+          "description": "ggff.net",
           "icon": "https://favicon.im/nav.eooce.com?larger=true"
         }
       ]
