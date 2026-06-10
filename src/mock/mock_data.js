@@ -223,6 +223,13 @@ export const mockData = {
           "url": "https://email.55cc.cc.cd/",
           "description": "自建邮箱",
           "icon": "https://www.faviconextractor.com/favicon/email.55cc.cc.cd"
+        },
+        {
+          "id": "site-1781055416832",
+          "name": "nodeloc邮箱",
+          "url": "https://mail.nodeloc.cc/",
+          "description": "论坛账号登录",
+          "icon": "https://favicon.im/mail.nodeloc.cc?larger=true"
         }
       ]
     },
