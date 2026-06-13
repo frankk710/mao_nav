@@ -1955,7 +1955,7 @@ export const mockData = {
         {
           "id": "site-1780196234525",
           "name": "ss-cloudns-日本",
-          "url": "https://jpp.jinhuiyi.cloudns.ch/fd117f9c-809f-4db5-a9a6-3663560e4b11",
+          "url": "https://cloud.jinhuiyi.cloudns.ch/7c5716b5-ca69-433b-9b2e-035a0b470f34",
           "description": "jinhuiyi.cloudns.ch",
           "icon": "https://favicon.im/nav.eooce.com?larger=true"
         },
