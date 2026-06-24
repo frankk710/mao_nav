@@ -2129,6 +2129,13 @@ export const mockData = {
           "url": "https://ip.v2too.top/",
           "description": "群友分享",
           "icon": "https://www.faviconextractor.com/favicon/ip.v2too.top"
+        },
+        {
+          "id": "site-1782303494119",
+          "name": "cf优选ip",
+          "url": "https://cf-ip.296567.xyz/",
+          "description": "cf优选ip",
+          "icon": ""
         }
       ]
     },
