@@ -1920,7 +1920,7 @@ export const mockData = {
         {
           "id": "site-1765355032074",
           "name": "佬王-ss.cloudns.ch",
-          "url": "https://laowss.jinhuiyi.cloudns.ch/fbea9d0d-12bc-43e5-ba87-a61d31012d2a",
+          "url": "https://cloud.jinhuiyi.cloudns.ch/7c5716b5-ca69-433b-9b2e-035a0b470f34",
           "description": "佬王sni-ss",
           "icon": "https://favicon.im/nav.eooce.com?larger=true"
         },
