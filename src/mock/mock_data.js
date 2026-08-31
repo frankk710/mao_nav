@@ -1116,7 +1116,7 @@ export const mockData = {
         {
           "id": "site-1765074398543",
           "name": "观影",
-          "url": "https://www.gying.net",
+          "url": "https://www.xn--ykq321c.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.gying.net"
         },
