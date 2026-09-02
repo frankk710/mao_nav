@@ -1409,6 +1409,13 @@ export const mockData = {
           "url": "https://dashboard.katabump.com/",
           "description": "kdns.fr",
           "icon": "https://favicon.im/dashboard.katabump.com"
+        },
+        {
+          "id": "site-1788338056543",
+          "name": "eu.org",
+          "url": "https://nic.eu.org/",
+          "description": "永久免费",
+          "icon": "https://a.favicon.im/nic.eu.org?larger=true"
         }
       ]
     },
