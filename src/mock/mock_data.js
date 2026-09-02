@@ -786,6 +786,13 @@ export const mockData = {
           "url": "https://cleanip.io/",
           "description": "ip纯净度评分",
           "icon": "https://favicon.im/cleanip.io?larger=true"
+        },
+        {
+          "id": "site-1788350106812",
+          "name": "IP连通性测试",
+          "url": "https://ip.net.coffee/link/",
+          "description": "IP连通性测试",
+          "icon": "https://www.faviconextractor.com/favicon/ip.net.coffee"
         }
       ]
     },
