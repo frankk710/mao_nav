@@ -1898,7 +1898,7 @@ export const mockData = {
         {
           "id": "site-1768361190458",
           "name": "ed2-de5",
-          "url": "https://ed2.nea.de5.net/admin",
+          "url": "https://ed2.kking.kdns.fr/admin",
           "description": "de5.net",
           "icon": "https://favicon.im/sub.cmliussss.net?larger=true"
         },
