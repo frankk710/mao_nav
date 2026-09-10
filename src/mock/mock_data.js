@@ -1823,6 +1823,13 @@ export const mockData = {
           "url": "https://bot-hosting.net/",
           "description": "佬王游戏机",
           "icon": "https://favicon.im/bot-hosting.net?larger=true"
+        },
+        {
+          "id": "site-1789008447274",
+          "name": "host-ship",
+          "url": "https://panel.host-ship.com/",
+          "description": "host-ship容器-30天续期",
+          "icon": "https://www.faviconextractor.com/favicon/panel.host-ship.com"
         }
       ]
     },
