@@ -512,6 +512,13 @@ export const mockData = {
           "url": "https://chatgpt.com/c/6a26b17e-6bb4-832a-81bb-609e4823f9de",
           "description": "ChatGPT Business 商业版",
           "icon": "https://www.faviconextractor.com/favicon/chatgpt.com"
+        },
+        {
+          "id": "site-1790555458494",
+          "name": "muse.ai",
+          "url": "https://muse.ai/",
+          "description": "muse.ai",
+          "icon": "https://a.favicon.im/muse.ai?larger=true"
         }
       ]
     },
