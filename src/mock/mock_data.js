@@ -1816,6 +1816,13 @@ export const mockData = {
           "url": "https://dash.neoheberg.fr/",
           "description": "Neoheberg",
           "icon": "https://www.faviconextractor.com/favicon/dash.neoheberg.fr"
+        },
+        {
+          "id": "site-1792024559085",
+          "name": "elysiannode",
+          "url": "https://billing.elysiannodes.uk/dashboard",
+          "description": "elysiannode 芬兰家宽",
+          "icon": "https://www.faviconextractor.com/favicon/billing.elysiannodes.uk"
         }
       ]
     },
