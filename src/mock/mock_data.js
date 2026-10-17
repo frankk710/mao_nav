@@ -1054,6 +1054,13 @@ export const mockData = {
           "url": "https://www.younow.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.younow.com"
+        },
+        {
+          "id": "site-1792206533003",
+          "name": "全球直播",
+          "url": "https://famelack.com/tv/kr",
+          "description": "famelack.com",
+          "icon": "https://www.faviconextractor.com/favicon/famelack.com"
         }
       ]
     },
@@ -1823,6 +1830,13 @@ export const mockData = {
           "url": "https://billing.elysiannodes.uk/dashboard",
           "description": "elysiannode 芬兰家宽",
           "icon": "https://www.faviconextractor.com/favicon/billing.elysiannodes.uk"
+        },
+        {
+          "id": "site-1792206900908",
+          "name": "botkeep.cloud",
+          "url": "https://botkeep.cloud/",
+          "description": "家宽游戏机",
+          "icon": "https://www.faviconextractor.com/favicon/botkeep.cloud"
         }
       ]
     },
